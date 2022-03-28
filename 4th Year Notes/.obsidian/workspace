@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "39dd42470e093c49",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd5b70fd6473234b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS427 Robotics.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f40e1089faf9e18c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c73c112b3b36b17b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6811b8b7ed0840da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b8982f49cf09cc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0b8ef7087644236",
+    "type": "split",
+    "children": [
+      {
+        "id": "41880bdcc109eb64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e403828e38599a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS427 Robotics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bd5b70fd6473234b",
+  "lastOpenFiles": [
+    "CS427 Robotics.md"
+  ]
+}
