@@ -1,0 +1,24 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Dermot Kelly">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.02 [en] (Win95; I) [Netscape]">
+   <TITLE>index</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER><B><FONT SIZE=+1>CS100 Principles of Computer Programming</FONT></B></CENTER>
+
+<CENTER><B><FONT SIZE=+1><A HREF="http://www.cs.may.ie/~dkelly">Dermot
+Kelly</A></FONT></B></CENTER>
+&nbsp;
+
+<P><A HREF="info.html">Information for Higher Diploma in Information
+Technology Candidates</A>
+<BR>
+<UL><A HREF="pp1.html">Lecture Notes</A>
+
+<P><A HREF="labs.html">Practical and Assignment Notes</A></UL>
+
+</BODY>
+</HTML>

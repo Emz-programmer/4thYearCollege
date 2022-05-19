@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Dermot Kelly's Homepage</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2800.1491" name=GENERATOR><!--- STAFF PAGE TEMPLATE ---></HEAD>
+<BODY bgColor=#ffffff><!--- BEGIN PAGE BODY ---><!--- PAGE HEADER INFORMATION BEGINS HERE - DO NOT CHANGE --->
+<CENTER><FONT size=+2>Department of Computer Science,</FONT></CENTER>
+<CENTER><FONT size=+2>National University of Ireland,</FONT></CENTER>
+<CENTER><FONT size=+2>Maynooth, Co. Kildare,</FONT></CENTER>
+<CENTER><FONT size=+2>Ireland.</FONT></CENTER>
+<HR>
+
+<CENTER><B>Dermot Kelly's Homepage</B></CENTER>
+<HR>
+<!--- FIRST NAVIGATION BAR --->
+<CENTER>
+<TABLE border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=middle width="25%"><A 
+      href="http://www.cs.nuim.ie/~jkeating"><IMG alt="Previous Staff Page" 
+      src="/resources/images/navigation/previousstaffpage.gif" border=0></A>&nbsp;<!--- LINK THIS TO PREVIOUS STAFF MEMBER'S PAGE ---></TD>
+    <TD vAlign=center align=middle width="25%"><!--- Parent Page ---><A 
+      href="http://www.cs.nuim.ie/staff"><IMG alt="Staff Index" src="/resources/images/navigation/staffindex.gif" 
+      border=0></A>&nbsp;<!--- THIS IS CONSTANT - DO NOT CHANGE ---></TD>
+    <TD vAlign=center align=middle width="25%"><!--- Home Page ---><A 
+      href="http://www.cs.nuim.ie/"><IMG alt=Home src="/resources/images/navigation/home.gif" border=0></A>&nbsp;<!--- THIS IS CONSTANT - DO NOT CHANGE ---></TD>
+    <TD vAlign=center align=middle width="25%"><A 
+      href="http://www.cs.nuim.ie/~fred"><IMG alt="Next Staff Page" src="/resources/images/navigation/nextstaffpage.gif" 
+      border=0></A>&nbsp;<!--- LINK THIS TO NEXT STAFF MEMBER'S PAGE ---></TD></TR></TBODY></TABLE></CENTER>&nbsp; 
+
+<P><!--- STAFF PICTURE ---><IMG src="ColForclaz1.jpg" align=left>&nbsp;<!--- STAFF CONTACT INFORMATION ---> 
+<UL><B>Dermot Kelly</B> B.Sc., M.Sc. (NUI), M.I.E.E.E, M.A.C.M. 
+  <P>Room 2.30 Callan Building, <BR>Department of Computer Science, <BR>National 
+  University of Ireland, Maynooth <BR>Co. Kildare, <BR>Ireland. 
+  <P>E-Mail: <A href="mailto:Dermot.Kelly@nuim.ie">Dermot.Kelly@nuim.ie</A> 
+  <BR>Phone: +353 1 7083852</P></UL><!--- INTRODUCTION --->
+<P>
+<HR>
+
+<UL><B>Dermot Kelly</B> is a Lecturer in Computer Science at the National 
+  University of Ireland, Maynooth. 
+  <P><B>Teaching</B> (Online course notes available for 
+  CS100/CS220/CS240/CS350/CS402 - University Access Only) <BR><TT><A 
+  href="http://www.cs.nuim.ie/~dkelly/CS100-2/index.html">CS100 </A>- </TT>Introduction to 
+Information Technology and Computer Programming (60 Lectures, 60 Hours Practicals)<I>(HDipIT,MCompSci 
+  I)</I> 
+  <UL>(1997/98 <A 
+    href="http://www.cs.nuim.ie/~dkelly/CS100/index.html">Modula-2 Version</A>) 
+    <BR>(2005/6 <A href="http://www.cs.nuim.ie/~dkelly/CS100-2/index.html">Java 
+    Version</A>)</UL><TT><A 
+  href="http://www.cs.nuim.ie/~dkelly/CS220/index.html">CS220 </A>- </TT>Computer 
+  Architecture (<A href="http://www.cs.nuim.ie/~dkelly/CS220/index.html">25 
+  Lectures</A>)(<A href="http://www.cs.nuim.ie/~dkelly/CS220/pindex.html">20 
+  Hours Practicals</A>) <I>(Second Science, First CSSE, MCompSci I)</I> <BR><TT><A 
+  href="http://www.cs.nuim.ie/~dkelly/CS240-05/index.htm">CS240 </A>- 
+  </TT>Operating Systems (<A 
+  href="http://www.cs.nuim.ie/~dkelly/CS240-05/index.htm">25 Lectures</A>)(<A 
+  href="http://www.cs.nuim.ie/~dkelly/CS240-05/pindex.htm">20 Hours Practicals</A>) 
+  <I>(Second Science, Second CSSE, HDipIT, MCompSci I)</I><UL>(-2004/5 Version <A 
+    href="http://www.cs.nuim.ie/~dkelly/CS240/index.html">Lectures</A> 
+    <A href="http://www.cs.nuim.ie/~dkelly/CS240/pindex.html">Practicals</A>)</UL><TT><A 
+  href="http://www.cs.nuim.ie/~dkelly/CS350/CSA1.html">CS350 </A>- </TT>Computer 
+  Systems Architecture (25 Lectures</A>)<I>(Third 
+  Science Honours)</I> <UL>(2004/2005 Version <A 
+  href="http://www.cs.nuim.ie/~dkelly/CS350/CSA1.html">25 Lectures</a>)</ul><TT><A 
+  href="http://www.cs.nuim.ie/~dkelly/CS402-06/index.html">CS402 
+  </A>- </TT>Parallel & Distributed Systems (<A 
+  href="http://www.cs.nuim.ie/~dkelly/CS402-06/index.html">25 Lectures</a>)<I>(BSc 
+  Honours, MCompSci II)</I> <UL>(2004/2005 Distributed Systems Version <A 
+    href="http://www.cs.nuim.ie/~dkelly/CS402/DS1.html">25 Lectures</A>) 
+    <BR>(2005- Parallel & Distributed Systems Version</A>)</UL><TT>M207- 
+  </TT>Real-Time and Distributed Systems (10 Lectures)<I>(MSc Software 
+  Engineering)</I> 
+  
+  <P>
+  <HR width="100%">
+
+  <TABLE cellSpacing=0 border=0>
+    <TBODY>
+    <TR>
+      <TD vAlign=top><IMG src="dermot.gif">&nbsp;</TD>
+      <TD><B>Background</B>&nbsp; <BR>I am originally from Cork and went to <A 
+        href="http://www.ucc.ie/">UCC</A> where I did a B.Sc and M.Sc. in <A 
+        href="http://www.cs.ucc.ie/">Computer Science</A> and taught there for 
+        two years. I have been working at the <A 
+        href="http://www.nuim.ie/">National University of Ireland, Maynooth 
+        </A>since 1991. I am a member of the <A href="http://www.ieee.org/">Institute of 
+        Electrical and Electronic Engineers</A> and the <A 
+        href="http://www.acm.org/">Association for Computing 
+    Machinery</A>.</TD></TR></TBODY></TABLE>&nbsp;</UL>
+<HR>
+<BR><!--- SECOND NAVIGATION BAR --->
+<CENTER>
+<TABLE border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=middle width="25%"><A 
+      href="http://www.cs.nuim.ie/~jkeating"><IMG alt="Previous Staff Page" 
+      src="/resources/images/navigation/previousstaffpage.gif" border=0></A>&nbsp;<!--- LINK THIS TO PREVIOUS STAFF MEMBER'S PAGE ---></TD>
+    <TD vAlign=center align=middle width="25%"><!--- Parent Page ---><A 
+      href="http://www.cs.nuim.ie/staff"><IMG alt="Staff Index" 
+      src="/resources/images/navigation/staffindex.gif" border=0></A>&nbsp;<!--- THIS IS CONSTANT - DO NOT CHANGE ---></TD>
+    <TD vAlign=center align=middle width="25%"><!--- Home Page ---><A 
+      href="http://www.cs.nuim.ie/"><IMG alt=Home src="/resources/images/navigation/home.gif" 
+      border=0></A>&nbsp;<!--- THIS IS CONSTANT - DO NOT CHANGE ---></TD>
+    <TD vAlign=center align=middle width="25%"><A 
+      href="http://www.cs.nuim.ie/~fred"><IMG alt="Next Staff Page" 
+      src="/resources/images/navigation//nextstaffpage.gif" border=0></A>&nbsp;<!--- LINK THIS TO NEXT STAFF MEMBER'S PAGE ---></TD></TR></TBODY></TABLE></CENTER><!--- PAGE FOOTER INFORMATION BEGINS HERE --->
+<HR>
+
+<UL><FONT size=-1>URL: <A 
+  href="http://www.cs.nuim.ie/~dkelly">http://www.cs.nuim.ie/~dkelly</A></FONT> 
+  <BR><FONT size=-1>Revised: 21st August 2005</FONT> <BR><FONT 
+  size=-1>Contact: <A 
+  href="mailto:webmaster@cs.nuim.ie">webmaster@cs.nuim.ie</A></FONT> <BR><FONT 
+  size=-1>Copyright ©1997-2005 <A href="http://www.nuim.ie/">National University of 
+  Ireland, Maynooth</A></FONT></UL></BODY></HTML>

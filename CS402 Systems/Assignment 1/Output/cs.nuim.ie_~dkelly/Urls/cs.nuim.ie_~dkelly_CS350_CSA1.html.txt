@@ -1,0 +1,135 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.01 [en] (Win95; I) [Netscape]">
+   <TITLE> CS350 Computer Systems Architecture, Dermot Kelly</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER>
+<H2>
+CS350 Computer Systems Architecture&nbsp;<BR>
+<A HREF="http://www.cs.may.ie/~dkelly">Dermot Kelly</A></H2></CENTER>
+
+<CENTER><B>Introduction</B></CENTER>
+
+
+<P>The architecture of a computer system could be described as its <B>functional
+appearance</B>. It provides a specification of the functional elements
+of a computer system and how they interact. Many alternatives may be considered
+in the <B>implementation </B>of the architecture which subsequently result
+in a particular <B>realization </B>of a computer system.
+
+<P>The computer systems that we will study mainly are known as stored program
+computers or von Neumann computers, following the work of Princeton mathematician
+John von Neumann in the 1950s.
+
+<P>The basic von Neumann stored computer has the following components:-
+<UL>1. A memory used for holding both instructions and the data required
+by those instructions.
+<BR>2. A control unit for fetching instructions from memory.
+<BR>3. An arithmetic processor for performing the specified operations.
+<BR>4. Input/Output mechanisms and peripheral devices for transferring
+data to and from the system.</UL>
+Evolution of this simple specification has seen the control unit and arithmetic
+unit combined into a single component known as the central processing unit(CPU)
+and the overall arrangement of modern microprocessor systems can be described
+as follows:-
+<CENTER><IMG SRC="CSA1.gif" ></CENTER>
+<A NAME="index"></A>
+
+<P>This course focuses on the design of each of these components. The main
+topics are:-
+
+<P><B>CPU -</B>
+<BR><A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA34.html">Instruction
+Set Design</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA39.html">Central
+Control Unit Design</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA45.html">Pipeline
+Processors</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA47.html">Pipeline
+Hazards</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA52.html">Superscalar
+and Superpipeline Processors</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA56.html">Floating
+Point Arithmetic</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA61.html">RISC
+and CISC Designs</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/pentium.html">Pentium
+Overview</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/pentiumII.html">Pentium
+II Overview</A>
+
+<P><B>Main Memory -</B>
+<BR><A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA2.html">Decoders and
+Multiplexors</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA5.html">Memory
+Array Organisation</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA9.html">Semiconductor
+Memory Devices</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA12.html">Memory
+Hierarchy and Design</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA16.html">Cache
+Systems</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA20.html">Associative
+Memories</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA25.html">Cache
+Management and Organisation</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA27.html#coherence">Cache
+Coherence</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA29.html">Error
+Detection and Correction</A>
+
+<P><B>Input/Output System -</B>
+<BR><A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA64.html">Buses</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA66.html">Data Transfer</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA67.html">Timing</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA69.html">Arbitration</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA72.html">Interrupt Mechanism</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA73.html">PC Buses</A> (
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA73.html#ISA">ISA</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA73.html#MCA">MCA</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA74.html#EISA">EISA</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA74.html#VESA">VESA</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA75.html#PCI">PCI</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA78.html#AGP">AGP</A>
+) <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA81.html">System Performance</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA84.html">Secondary Storage
+Media</A> ( <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA84.html#disks">Magnetic
+Disks</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA85.html#raid">RAID</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA86.html#cds">CD-ROM</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA86.html#dvd">DVD</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA87.html#tape">Magnetic
+Tape</A> )
+<BR>External I/O ( <A HREF="http://www.cs.may.ie/~dkelly/CS350/PCMCIA.html">PCMCIA</A>,
+USB, SCSI )
+
+<P>The <B>text books</B> from which these course notes are sourced are
+as follows:-
+<UL>
+<LI>
+Computer Architecture and Organisation, William Stallings, Prentice-Hall.</LI>
+
+<LI>
+Advanced Computer Architecture, Kai Hwang, McGraw-Hill.</LI>
+
+<LI>
+Computer Architecture Design and Performance, Barry Wilkinson, Prentice-Hall.</LI>
+
+<LI>
+Computer Architecture and Design, A.J. van de Goor, Addison-Wesley.</LI>
+
+<LI>
+Computer Architecture, A Quantitative Approach, Hennessy and Patterson,
+Morgan-Kaufmann Publishers.</LI>
+
+<LI>
+The Indispensable Pentium Book, Hans-Peter Messmer, Addison-Wesley</LI>
+
+<LI>
+Microprocessors, Theory and Applications, M. Rafiquzzaman, Prentice-Hall.</LI>
+</UL>
+<B>Past Examination Papers</B>
+<UL><B><A HREF="summer98.html">Summer 1998</A></B></UL>
+<B></B>
+
+<P><B>Online Resources elsewhere on the Web</B>
+<UL>
+<LI>
+<A HREF="http://www.pcguide.com/ref/">The PC Guide</A></LI>
+
+<LI>
+<A HREF="http://www.pcwebopedia.com/">PC Webopedia</A></LI>
+
+<LI>
+<A HREF="http://www.x86.org/">Intel Secrets</A> (Not affiliated to intel!)</LI>
+
+<LI>
+<A HREF="http://developer.intel.com/">Intel Developer</A></LI>
+</UL>
+
+<CENTER>[<A HREF="http://www.cs.may.ie/~dkelly/CS350/CSA2.html">Begin Course</A>]</CENTER>
+
+</BODY>
+</HTML>

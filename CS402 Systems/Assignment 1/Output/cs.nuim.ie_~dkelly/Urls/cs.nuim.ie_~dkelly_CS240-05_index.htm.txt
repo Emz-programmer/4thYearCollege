@@ -1,0 +1,212 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./index_files/filelist.xml">
+<title>CS240 Operating Systems</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>dkelly</o:Author>
+  <o:LastAuthor>dkelly</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>39</o:TotalTime>
+  <o:Created>2005-12-11T16:04:00Z</o:Created>
+  <o:LastSaved>2005-12-11T16:04:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>455</o:Words>
+  <o:Characters>2599</o:Characters>
+  <o:Company>NUI Maynooth</o:Company>
+  <o:Lines>21</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>3191</o:CharactersWithSpaces>
+  <o:Version>9.4402</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-GB link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>CS240 Operating Systems<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Course Lecturer  Dermot
+Kelly<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>email: <a
+href="mailto:dkelly@cs.nuim.ie">dkelly@cs.nuim.ie</a><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Room 2.20 Callan Building</span></b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Slides</span></b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>  <a
+href="first%20lecture%20slides.htm">Intro</a>, <a href="Day1%20Slides.htm">Day
+1</a>, <a href="Day2%20Slides.htm">Day 2</a>, <a href="Day%203%20Slides.htm">Day
+3</a>, <a href="Day%204%20Slides.htm">Day 4</a>, <a href="Day%205%20Slides.htm">Day
+5</a>, <a href="Day%206%20Slides.htm">Day 6</a>, <a href="Day%207%20Slides.htm">Day
+7</a>, <a href="Day%208%20Slides.htm">Day 8</a>, <a href="Day%209%20Slides.htm">Day
+9</a>, <a href="Day%2010%20Slides.htm">Day 10</a>, <a href="Day%2011%20Slides.htm">Day
+11</a>, <a href="Day%2012%20Slides.htm">Day 12</a><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Lecture
+Notes - Handouts<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><a
+href="firstlecture.htm">Introduction</a> &amp; <a href="Overview.htm">Overview</a><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Process
+Management &amp; Interprocess Communication<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><span
+style='mso-tab-count:1'>        </span><a href="Processes.htm">Processes</a></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Scheduling.html">Single Processor
+Scheduling</a>, <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Other%20Computing%20Environments.htm">Scheduling
+on Other Computing Environments</a>,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="multiprocessor%20queuing%20theory.htm">Multiprocessor
+Queuing Theory</a>,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Case%20Study%20-%20Linux.htm">Linux
+Scheduling</a>,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Interprocess%20Communication.htm">Interprocess
+Communication</a>,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="java%20socket%20programming.htm">Java
+Socket Programming</a>, <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Java%20Remote%20Method%20Invocation.htm">Java
+Remote Method Invocation</a>,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Threads.htm">Concurrency, Process Creation
+&amp; Threads</a>,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Process%20Synchronisation1.htm">Process
+Synchronisation</a>,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="ProcessSynchronisation2.htm">Two Process
+Mutex Solutions, N-Process Solution</a>, <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="ProcessSynchronisation3.htm">Hardware
+Synchronisation Solutions, Semaphores</a>,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Classical%20Coordination%20Problems.htm">Classical
+Coordination Problems</a>, <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Deadlocks.htm">Deadlocks</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Memory
+Management<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Memory%20Management.htm">Memory System
+Hierarchy, Monoprogramming, Multiprogramming, Address Space Protection,<span
+style="mso-spacerun: yes">  </span>Dynamic Relocation, Fixed versus Dynamic
+Sized Partitions</a>,<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Dynamic%20Memory%20Management.htm">Bit
+Maps, Free Lists, Paged Architectures, Virtual Memory, Demand Paging, Working
+Set, Page Replacement, Beladys Anomaly</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>File
+Systems<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="File%20Systems.htm">User Interface, File
+System Structures, Mapping &amp; Access, Mechanical Operations, File Opening
+and Caching, Free Space Management &amp; Automatic Space Allocation,
+Contiguous, Linked and Indexed Allocation, Performance &amp; Reliability,
+Hierarchical Organisation</a>, <a href="Disk%20Scheduling.htm">Disk Scheduling</a>,
+<a href="The%20Unix%20File%20System.htm">The Unix File System</a><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Protection<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><a href="Protection.htm">Protection Domain &amp;
+Access Matrix, Access Lists &amp; Capabilities, Protection in Unix</a> <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.0pt'><span style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

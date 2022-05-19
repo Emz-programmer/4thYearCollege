@@ -1,0 +1,1092 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<!--[if IE]><![endif]-->
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="preconnect" href="//fonts.gstatic.com" crossorigin="" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="preconnect" href="//fonts.googleapis.com" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.maynoothuniversity.ie/computer-science/our-people" />
+<link rel="shortlink" href="https://www.maynoothuniversity.ie/node/281540" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.maynoothuniversity.ie/computer-science/our-people" />
+<meta name="twitter:title" content="Our People" />
+<title>Our People | Maynooth University</title>
+  <!-- Cookiebot script -->
+  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="7a531604-1b21-4f40-af8e-d4d4cc9433b7" data-blockingmode="auto" type="text/javascript"></script>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__Wm7aot7FhFNHwajlHr-qN14Gqx3uLt1TJVoLT7h0NUA__l1c8KB15YuMFPi9AGzk9nNYd4IsSBl5Yg9VvU32g66k__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css_injector/css_injector_1.css?r9nogn" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css_injector/css_injector_2.css?r9nogn" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__5DYx5lOFP34OaTIBGAOvW5tVSCfcm81OCqORb_moAh4__gOwxdXw6d21uwL0Pb9VsRErpzY1H564BbUS0_yhHjBc__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__pCf4bQKhTzhIiU52ZxWhBqBgN2_MsZUuAFV0FKPqtZg__ccy9xV6xynCNblkTbvuYMHwV9bVXJU2P_l0ifaoroRc__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__zlTNixxKLRhtiwuAAxl_XQjyph9iNgxFFuvnl9HiRuA__OVEgkLP9msXRfiWthuMBatAgvNUcN7MM7BVcwP8vkJQ__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<!--<![endif]-->
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__Gy4qtCwAe4cMBQPFrybeYEUAMCSNRsFCrptsZjl20kQ__wXUjam5J073_jSubkPwfQdUFpDOW6V9iUuJQG2xjf3Q__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__SBHwlufy_ibZpp921mXH-DBLLVNqCr08h0yPxM2WggQ__cwx-y8V8vcV6MGU5F4PiHsaguMlkGVxqCGKk-83ckuE__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__AvmCLbjQiJ0R9w54QaHSw5k2XXENjrS989X-w2bQ2Mc__Ewk0O7e9c4jgTsElc_qM8wPZ0htJo54FzOD5rDIMgms__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"nuim","theme_token":"hy3bunacspriScYb2SfMj2BWL6hs-KXDAyEtk2wVFaE","jquery_version":"1.9","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib_patched\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/css\/default.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/cookiecuttr.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/select2.min.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_2.css":1,"public:\/\/css_injector\/css_injector_4.css":1,"public:\/\/css_injector\/css_injector_6.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/extramq.css":1,"ie::desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default.css":1,"ie::desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default-desktop.css":1,"ie::desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/grid\/default\/desktop\/default-desktop-12.css":1,"desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default.css":1,"desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default-desktop.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/grid\/default\/desktop\/default-desktop-12.css":1,"tablet::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default.css":1,"tablet::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default-tablet.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/grid\/default\/tablet\/default-tablet-12.css":1,"mobile::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default.css":1,"mobile::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default-mobile.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/grid\/default\/mobile\/default-mobile-12.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/iefix.css":1},"js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"misc\/progress.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery-migrate-1.2.1.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/stacktable.min.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.easytabs.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.fitvids.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.validate.min.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/nuim.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.cookie.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/featherlight.min.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/course-finder.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.mixitup.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/select2.full.min.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":false,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"better_exposed_filters":{"views":{"single_header_images":{"displays":{"block":{"filters":[]}}},"carousels":{"displays":{"block_1":{"filters":[]}}},"useful_links_org_units":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}},"tabs_at_bottom_of_pages":{"displays":{"block_1":{"filters":[]}}},"department_people":{"displays":{"block_1":{"filters":[]},"block_2":{"filters":[]},"block_3":{"filters":[]},"block_4":{"filters":[]},"block_5":{"filters":[]},"block_6":{"filters":[]},"block_7":{"filters":[]}}},"basic_page_blocks":{"displays":{"traffic_light_block":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/computer-science\/our-people":true},"colorbox_node":{"width":"600px","height":"600px"}});
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__vK_4cu168NZ-CUsjdztseWuOmutCchvm379IZEcRlhs__2gIEawe1LRQ_8yuoRIKyVIdgq6ge7utpSQSkiq7J2aM__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__YS__lld3JyerB893LYnyiyMeQr-ISw6v7smCKRzXjSA__5wZg17QWF2vCkLDgENJInYd5gP9RSt1N-GsRVVen-b0__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.js"></script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript">stLight.options({publisher: "5eaa084d-c8e7-4a3c-90cf-84b18bf22d27", onhover: false, doNotCopy:true});</script>
+<!--Start Monitoring Script-->
+  <script type="text/javascript">
+    var rumMOKey='7c703e24feb5c097a89694f805401fec';
+    (function(){
+      if(window.performance && window.performance.timing && window.performance.navigation) {
+        var site24x7_rum_beacon=document.createElement('script');
+        site24x7_rum_beacon.setAttribute('src','//static.site24x7rum.com/js/rum-beacon-min.js');
+        document.scripts[0].appendChild(site24x7_rum_beacon);
+      }
+    })(window)
+  </script>
+<!--End of Monitoring Script-->
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-281540 node-type-page no-margins context-computer-science sidebar-left">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHHZJZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WHHZJZ');</script>
+<!-- End Google Tag Manager -->
+		      <header id="section-header" class="section section-header">
+  <div id="zone-header-devices-wrapper" class="bg-ffffff not-desktop">  
+  <div id="zone-header-devices" class="clearfix container-12">
+    <div class="grid-8" id="region-logo-devices">
+  <div class="region-inner cf">
+    <div class="block odd cf b1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="logo-img"><a href="/" id="logo" title="Return to the Maynooth University home page"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png" alt="Maynooth University" /></a></div>	</div>  
+  </div>
+
+</div>  </div>
+</div><div class="grid-4" id="region-buttons-devices">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 covid-button">
+  <div class="block-inner cf">
+            	<div class="content">
+      <a class="covid-button" href="/coronavirus">COVID-19 Information</a>	</div>  
+  </div>
+
+</div><div class="block even cf b2 buttons-devices">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu">
+<li><a class="search-trigger" href="#"" id="search-toggle-2"><span>Search</span></a></li>
+<li><a href="#" id="expand-utility" class="slidetoggle"><span></span></a></li>
+</ul>	</div>  
+  </div>
+
+</div>  </div>
+</div>  </div>
+</div><div id="zone-header-wrapper" class="bg-ffffff only-desktop ensure-desktop">  
+  <div id="zone-header" class="clearfix container-12">
+    <div class="grid-4 only-desktop" id="region-logo">
+  <div class="region-inner cf">
+    <div class="block odd cf b1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="logo-img"><a href="/" id="logo" title="Return to the Maynooth University home page"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png" alt="Maynooth University" /></a></div>	</div>  
+  </div>
+
+</div>  </div>
+</div><div class="grid-8" id="region-primary">
+  <div class="region-inner cf">
+    
+<nav  class="block odd cf b1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf about-us"><a href="/about-us">About Us</a></li>
+<li  class="leaf study-at-maynooth"><a href="/study-maynooth">Study at Maynooth</a></li>
+<li  class="leaf campus-life"><a href="/campus-life">Campus Life</a></li>
+<li  class="leaf departments"><a href="/departments">Departments</a></li>
+<li  class="leaf library"><a href="/library">Library</a></li>
+<li  class="leaf maynooth-access-programme"><a href="/access-office">Maynooth Access Programme</a></li>
+<li  class="leaf gaeilge-san-ollscoil"><a href="/oifig-na-gaeilge">Gaeilge san Ollscoil</a></li>
+<li  class="leaf"><span class="separator"><hr></span></li>
+<li  class="leaf a-z-directory"><a href="/az-index">A-Z Directory</a></li>
+<li  class="leaf people-finder"><a href="/people">People Finder</a></li>
+<li  class="leaf contact"><a href="/contact">Contact</a></li>
+<li  class="leaf location"><a href="/location">Location</a></li>
+<li  class="leaf vacancies"><a href="https://www.maynoothuniversity.ie/human-resources/vacancies">Vacancies</a></li>
+<li  class="leaf"><span class="separator"><hr></span></li>
+<li  class="leaf for-current-students"><a href="/current-students">For Current Students</a></li>
+<li  class="leaf for-staff"><a href="/staff">For Staff</a></li>
+<li  class="leaf for-alumni"><a href="/daro">For Alumni</a></li>
+<li  class="leaf for-visitors"><a href="https://www.maynoothuniversity.ie/campus-services/visitors">For Visitors</a></li>
+<li  class="leaf"><span class="separator"><hr></span></li>
+<li  class="last leaf support-maynooth"><a href="/daro/support">Support Maynooth</a></li>
+</ul>	</div>
+  </div>
+ 
+</nav>
+<nav  class="block even cf b2">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf about-us"><a href="/about-us">About Us</a></li>
+<li  class="leaf departments"><a href="/departments">Departments</a></li>
+<li  class="leaf a-z-index"><a href="/az-index">A-Z Index</a></li>
+<li  class="leaf people-finder"><a href="/people">People Finder</a></li>
+<li  class="leaf news-events"><a href="/news-events">News &amp; Events</a></li>
+<li  class="leaf location"><a href="/location">Location</a></li>
+<li  class="last leaf contact"><a href="/contact">Contact</a></li>
+</ul>	</div>
+  </div>
+ 
+</nav>
+<nav  class="block odd cf b3 nav">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf has-children menu-mlid-439 about-us"><a href="/about-us">About Us</a></li>
+<li  class="leaf has-children menu-mlid-1045 departments"><a href="/departments">Departments</a></li>
+<li  class="leaf menu-mlid-5959 a-z-index"><a href="/az-index">A-Z Index</a></li>
+<li  class="leaf menu-mlid-1697 people-finder"><a href="/people">People Finder</a></li>
+<li  class="leaf has-children menu-mlid-442 news-events"><a href="/news-events">News &amp; Events</a></li>
+<li  class="leaf has-children menu-mlid-443 location"><a href="/location" title="Location">Location</a></li>
+<li  class="leaf has-children menu-mlid-444 contact"><a href="/contact">Contact</a></li>
+<li  class="leaf has-children menu-mlid-3802 for-staff"><a href="/staff">For Staff</a></li>
+<li  class="leaf menu-mlid-447 for-alumni"><a href="/daro">For Alumni</a></li>
+<li  class="leaf has-children menu-mlid-3803 for-current-students"><a href="/current-students">For Current Students</a></li>
+<li  class="last leaf menu-mlid-8160 maynooth-at-20"><a href="/maynooth-university-at-20">Maynooth at 20</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav><div class="block even cf b4 header-search-icon">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="header-wrapper-search">
+  <div class="header-search">
+    <a class="search-trigger" href="#" id="search-toggle"><span>Search</span></a>
+  </div>
+</div>	</div>  
+  </div>
+
+</div><div class="block odd cf b5 mega-menu-block mega-menu-block">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="tb-megamenu tb-megamenu-menu-new-main">
+  <div class="nav-collapse">
+    <ul  class="tb-megamenu-nav nav level-0 items-4" class="tb-megamenu-nav nav level-0 items-4">
+              <li class="tb-megamenu-item level-1 mega dropdown">
+          <a href="https://www.maynoothuniversity.ie/research" class="dropdown-toggle">Research<span class="caret"></span></a>          <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+            <div class="mega-dropdown-inner">
+              <div class="tb-megamenu-row row-fluid">
+                <div data-showblocktitle="1" data-class="" data-width="7" data-hidewcol="" id="tb-megamenu-column-1" class="tb-megamenu-column span7 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <div data-type="block" data-block="bean--research-menu-header" class="tb-megamenu-block tb-block tb-megamenu-block">
+                      <div class="block-inner">
+                        <section class="block odd cf b1 research-menu-header ">
+                          <div class="block-inner cf">
+                            <h2 class="block-title">Research</h2>
+                            <div class="content">
+                                                                                          <div class="field-name-field-bean-e-body">
+                                World-class research based on a distinctive, interdisciplinary approach to the natural sciences, social sciences, engineering and technology, and the arts and humanities.                              </div>
+                                                                                          <div class="field-name-field-bean-e-link"><a href="https://www.maynoothuniversity.ie/research">Learn More</a></div>
+                                                          </div>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  data-class="" data-width="5" data-hidewcol="0" id="tb-megamenu-column-50" class="tb-megamenu-column span5 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <ul class="tb-megamenu-subnav mega-nav level-1 items-10">
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research">Research Home</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/about-us">Research and Innovation at Maynooth University</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/research-institutes">Research Institutes and Centres</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/spotlight-research">Spotlight on Research</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/research-news-events">Research News &amp; Events</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/phd-research-programmes">Postgraduate Research</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/research-themes">Research Themes</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/research-development-office">Research Development Office</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/maynoothworks">MaynoothWorks</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/researcher-directory">Researcher Directory</a>                        </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+              <li class="tb-megamenu-item level-1 mega dropdown">
+          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies" class="dropdown-toggle">Undergraduate<span class="caret"></span></a>          <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+            <div class="mega-dropdown-inner">
+              <div class="tb-megamenu-row row-fluid">
+                <div data-showblocktitle="1" data-class="" data-width="7" data-hidewcol="" id="tb-megamenu-column-1" class="tb-megamenu-column span7 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <div data-type="block" data-block="bean--research-menu-header" class="tb-megamenu-block tb-block tb-megamenu-block">
+                      <div class="block-inner">
+                        <section class="block odd cf b1 research-menu-header ">
+                          <div class="block-inner cf">
+                            <h2 class="block-title">Undergraduate Studies</h2>
+                            <div class="content">
+                                                                                          <div class="field-name-field-bean-e-body">
+                                Thousands of first year students join us each September to begin a level 8 degree. Join us in 2022.                              </div>
+                                                                                          <div class="field-name-field-bean-e-link"><a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies">Learn More</a></div>
+                                                          </div>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  data-class="" data-width="5" data-hidewcol="0" id="tb-megamenu-column-50" class="tb-megamenu-column span5 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <ul class="tb-megamenu-subnav mega-nav level-1 items-10">
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses">Level 8 Degrees</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/open-days">Open Days | Events</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/contact-us">Ask Us</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/information-guidance-counsellors">Guidance Counsellors</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/explore-our-campus">Visit Maynooth University</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/how-apply">How to Apply | CAO</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/maynooth-education">A Maynooth Education</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/download-prospectus-booklets">Prospectus &amp; Booklets</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/scholarships">Scholarships</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/certificates-short-courses/certificates">Certificates and Short Courses</a>                        </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+              <li class="tb-megamenu-item level-1 mega dropdown">
+          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies" class="dropdown-toggle">Postgraduate<span class="caret"></span></a>          <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+            <div class="mega-dropdown-inner">
+              <div class="tb-megamenu-row row-fluid">
+                <div data-showblocktitle="1" data-class="" data-width="7" data-hidewcol="" id="tb-megamenu-column-1" class="tb-megamenu-column span7 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <div data-type="block" data-block="bean--research-menu-header" class="tb-megamenu-block tb-block tb-megamenu-block">
+                      <div class="block-inner">
+                        <section class="block odd cf b1 research-menu-header ">
+                          <div class="block-inner cf">
+                            <h2 class="block-title">Postgraduate Studies</h2>
+                            <div class="content">
+                                                                                          <div class="field-name-field-bean-e-body">
+                                Postgraduate studies at&nbsp;Maynooth&nbsp;University is renowned for its rigorous&nbsp;programmes, supportive campus&nbsp;environment and welcoming academic&nbsp;community.                              </div>
+                                                                                          <div class="field-name-field-bean-e-link"><a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies">Learn more</a></div>
+                                                          </div>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  data-class="" data-width="5" data-hidewcol="0" id="tb-megamenu-column-50" class="tb-megamenu-column span5 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <ul class="tb-megamenu-subnav mega-nav level-1 items-10">
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/taught-programmes">Taught Master's, Diplomas and Certificates</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/phd-research-programmes">Research Programmes</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/graduate-studies/professional-skills-courses">Professional Skills Courses</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/graduate-studies/springboard-programmes">Springboard Courses</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/fees-funding-scholarships">Fees, Funding &amp; Scholarships</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/mu/graduate-studies/how-apply">How to Apply for a Postgraduate Programme</a>                        </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+              <li class="tb-megamenu-item level-1 mega dropdown">
+          <a href="https://www.maynoothuniversity.ie/international" class="dropdown-toggle">International<span class="caret"></span></a>          <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+            <div class="mega-dropdown-inner">
+              <div class="tb-megamenu-row row-fluid">
+                <div data-showblocktitle="1" data-class="" data-width="7" data-hidewcol="" id="tb-megamenu-column-1" class="tb-megamenu-column span7 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <div data-type="block" data-block="bean--research-menu-header" class="tb-megamenu-block tb-block tb-megamenu-block">
+                      <div class="block-inner">
+                        <section class="block odd cf b1 research-menu-header ">
+                          <div class="block-inner cf">
+                            <h2 class="block-title">International</h2>
+                            <div class="content">
+                                                                                          <div class="field-name-field-bean-e-body">
+                                The MU International Office is the first point of contact for international students applying for full-degree, Erasmus, Study Abroad, and Summer School programmes, and supports MU students who wish to study abroad.                              </div>
+                                                                                          <div class="field-name-field-bean-e-link"><a href="https://www.maynoothuniversity.ie/international">Learn More</a></div>
+                                                          </div>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  data-class="" data-width="5" data-hidewcol="0" id="tb-megamenu-column-50" class="tb-megamenu-column span5 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <ul class="tb-megamenu-subnav mega-nav level-1 items-10">
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/international-student-experience-maynooth">The Maynooth Student Experience</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/erasmus">Erasmus Incoming</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/study-abroad-information">Study Abroad and Exchange Incoming</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/short-term-programmes">Summer and Tailored Programmes</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/prospective-full-degree-students">Prospective Full Degree Students</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/going-abroad-maynooth">Go Abroad with Maynooth</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/key-information">Pre-Arrival &amp; Orientation</a>                        </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+          </ul>
+  </div>
+</div>
+	</div>  
+  </div>
+
+</div>  </div>
+</div><div class="grid-12" id="region-search">
+  <div class="region-inner cf">
+    <div class="block odd cf b1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <form action="/computer-science/our-people" method="post" id="search-block-form" accept-charset="UTF-8" role="form"><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" placeholder="Search" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-_NkdizT2GYIiwS9kvGFP9_NgCoKRQaHk7WOoikDKado" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</form>	</div>  
+  </div>
+
+</div>  </div>
+</div><a href="#zone-header-wrapper" class="close-button slidetoggle not-desktop">Close</a>  </div>
+</div></header>  
+      <section id="section-content" class="section section-content bg-dcdcdc">
+<div id="zone-titling-wrapper" class="bg-007E8C">
+<div id="zone-titling" class="container-12 clearfix">
+	<div id="region-titling" class="grid-12"><div class="region-inner">
+	<h1><strong>Maynooth University Department of Computer Science</strong></h1>
+		<a id="mobile-subnav-toggle" href="#subnav" class="slidetoggle only-mobile">Toggle</a>
+		</div></div>
+</div>
+</div>
+<div id="zone-breadcrumb-wrapper" class="bg-dcdcdc not-mobile">  
+  <div id="zone-breadcrumb" class="clearfix container-12"> 
+          <div id="breadcrumb" class="grid-12"><ul class="breadcrumb"><li><a href="/">Home</a> / </li><li><a href="/computer-science">Department Home</a> / </li><li class="active"><a href="/computer-science/our-people" class="active">People</a></li></ul></div>
+        
+    	</div>  
+</div>  
+	
+    
+  <div id="zone-subnav-clone" class="clearfix container-12">
+    <div class="" id="region-subnav-clone">
+  <div class="region-inner cf">
+    
+<nav  class="block odd cf b1 nav only-mobile hidden" id="subnav">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf menu-mlid-1874 department-home"><a href="/computer-science">Department Home</a></li>
+<li  class="leaf menu-mlid-1598 about-us"><a href="/computer-science/about-us">About Us</a></li>
+<li  class="leaf active-trail active menu-mlid-2042 people"><a href="/computer-science/our-people" class="active-trail active">People</a></li>
+<li  class="leaf menu-mlid-1211 courses"><a href="/computer-science/our-courses">Courses</a></li>
+<li  class="leaf menu-mlid-1599 research"><a href="/computer-science/our-research">Research</a></li>
+<li  class="leaf menu-mlid-2844 news"><a href="/computer-science/news">News</a></li>
+<li  class="expanded menu-mlid-2955 events"><a href="/computer-science/events">Events</a><ul class="menu"><li  class="first last leaf menu-mlid-2956 archive archive"><a href="/computer-science/events/archive">Archive</a></li>
+</ul></li>
+<li  class="leaf menu-mlid-1600 graduates"><a href="/computer-science/our-graduates">Graduates</a></li>
+<li  class="last leaf menu-mlid-1601 contact-us"><a href="/computer-science/contact-us">Contact Us</a></li>
+</ul>
+<a href="#subnav" class="close-button slidetoggle">Close</a>	</div>
+  </div>
+ 
+</nav>  </div>
+</div>  </div>
+<div id="zone-content-wrapper" class="bg-dcdcdc">  
+  <div id="zone-content" class="clearfix container-12">    
+    <aside class="grid-3 aside not-mobile" id="region-sidebar-first">
+  <div class="region-inner cf">
+    
+<nav  class="block odd cf b1 nav">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf menu-mlid-1874 department-home"><a href="/computer-science">Department Home</a></li>
+<li  class="leaf menu-mlid-1598 about-us"><a href="/computer-science/about-us">About Us</a></li>
+<li  class="leaf active-trail active menu-mlid-2042 people"><a href="/computer-science/our-people" class="active-trail active">People</a></li>
+<li  class="leaf menu-mlid-1211 courses"><a href="/computer-science/our-courses">Courses</a></li>
+<li  class="leaf menu-mlid-1599 research"><a href="/computer-science/our-research">Research</a></li>
+<li  class="leaf menu-mlid-2844 news"><a href="/computer-science/news">News</a></li>
+<li  class="expanded menu-mlid-2955 events"><a href="/computer-science/events">Events</a><ul class="menu"><li  class="first last leaf menu-mlid-2956 archive archive"><a href="/computer-science/events/archive">Archive</a></li>
+</ul></li>
+<li  class="leaf menu-mlid-1600 graduates"><a href="/computer-science/our-graduates">Graduates</a></li>
+<li  class="last leaf menu-mlid-1601 contact-us"><a href="/computer-science/contact-us">Contact Us</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav><section class="block even cf b2 useful-links-org-units block">
+  <div class="block-inner cf">
+              <h2 class="block-title">
+          Further Information      </h2>
+        	<div class="content">
+              
+  
+  
+             
+
+<nav class="nav">
+    <ul class="menu">
+          		    <li class="leaf"><a href="/computer-science/timetables">Timetable 2021-2022</a>            </li>          		    <li class="leaf"><a href="/computer-science/student-handbook-2021-22">Student Handbook 2021-22</a>            </li>          		    <li class="leaf"><a href="/computer-science/equipment-facility">Equipment Facilities</a>            </li>          		    <li class="leaf"><a href="/computer-science/MSc-Computer-Science-Maynooth">MSc Computer Science </a>            </li>          		    <li class="leaf"><a href="/computer-science/internal">Internal</a>            </li>          		    <li class="leaf"><a href="/computer-science/computer-science-summer-school">Computer Science Summer School</a>            </li>          		    <li class="leaf"><a href="/computer-science/introductory-coding-creatives-using-scalable-vector-graphics-svgs-make-emoji-and-cartoon-characters">Introductory Coding for Creatives: Using Scalable Vector Graphics (SVGs) to make Emoji and Cartoon Characters</a>            </li>          		    <li class="leaf"><a href="/computer-science/springboard/hci-pillar-one">HCI Pillar One HDip Human-Computer Interaction &amp; User Experience</a>            </li>          		    <li class="leaf"><a href="/computer-science/springboard">Springboard+ HDip in Science (Software Development)</a>            </li>          		    <li class="leaf"><a href="/computer-science/pact">PACT (Programming + Algorithms ≈ Computational Thinking)</a>            </li>          		    <li class="leaf"><a href="/computer-science/current-postgrads">Current Postgrads</a>            </li>          		    <li class="leaf"><a href="/computer-science/megadojo2018">DojoMór</a>            </li>          		    <li class="leaf"><a href="/computer-science/coderdojo">Coderdojo</a>            </li>          		    <li class="leaf"><a href="/computer-science/summer-camps">Summer Camp 2021</a>            </li>            </ul>
+</nav>
+
+      
+  
+  
+  
+  
+  	</div>  
+  </div>
+
+</section>  </div>
+</aside><div class="grid-9" id="region-content">
+  <div class="region-inner cf">
+    <a id="main-content"></a>
+    
+		        <!-- If node type = Course don't show title -->
+  	
+	  
+<div class="block odd cf b1 main-content cb">
+  <div class="block-inner cf">
+        <ul class="action-links"></ul>	<div class="content">
+      <article about="/computer-science/our-people" typeof="foaf:Document" class="node node-page node-published node-not-promoted node-not-sticky author-webadmin odd clearfix" id="node-page-281540">
+        <span property="dc:title" content="Our People" class="rdf-meta element-hidden"></span>  
+  <div class="content clearfix">
+      </div>
+
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+	</div>  
+  </div>
+ 
+</div><div class="block even cf b2 department-people block-1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="profiles-listing">
+            <div class="view-header">
+      <h2 class="title cb" id="page-title">Head of Department</h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first last cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Joseph-Timoney---NUI-Maynooth.jpg?itok=JFDMNIHN" width="550" height="363" alt="Computer Science - Joseph Timoney - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/joseph-timoney>Dr&nbsp;Joseph Timoney</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Senior Lecturer  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/joseph-timoney>Read Full Biography</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="block odd cf b3 department-people block-2">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="profiles-listing">
+            <div class="view-header">
+      <h2 class="title cb" id="page-title">Academic</h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Susan%20Bergin.jpg?itok=Q76G8zVB" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/susan-bergin>Dr&nbsp;Susan Bergin</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Lecturer  </p>  
+  <p class="views-field views-field-field-person-qualifications">        on sabbatical  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/susan-bergin>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Ting%20Bi.jpg?itok=6gKkMDxd" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/ting-bi>Dr&nbsp;Ting Bi</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Lecturer/ Assistant Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/ting-bi>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_3 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/ralf-bierig>Dr&nbsp;Ralf Bierig</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/ralf-bierig>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_1 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Stephen%20Brown%20web.jpg?itok=SqAfTWlB" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/stephen-brown>Dr&nbsp;Stephen Brown</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Associate Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/stephen-brown>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_2 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/kevin-casey>Dr&nbsp;Kevin Casey</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Lecturer  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/kevin-casey>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_3 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/nat.jpg?itok=4L-yVPyM" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/natalie-culligan>Dr&nbsp;Natalie Culligan</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Lecturer/ Assistant Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/natalie-culligan>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_1 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Rozenn.jpg?itok=8zRhZAsi" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/rozenn-dahyot>Prof&nbsp;Rozenn Dahyot</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/rozenn-dahyot>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/DapengDong-staffphoto.jpg?itok=NObi9WBs" width="550" height="363" alt="Computer Science - Dr. Dapeng Dong - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/dapeng-dong>Dr&nbsp;Dapeng Dong</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Lecturer  </p>  
+  <p class="views-field views-field-field-person-qualifications">        Assistant Professor  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/dapeng-dong>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_3 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/default--books--NUI-Maynooth.jpg?itok=6hXWhGzt" width="550" height="363" alt="Default - Books - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/thomas-dowling>Dr&nbsp;Thomas Dowling</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Lecturer  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/thomas-dowling>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_1 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Joe%20Duffin%20Web.jpg?itok=3Kpz-Fw5" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/joseph-duffin>Joseph Duffin</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Assistant Lecturer  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/joseph-duffin>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_2 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/killian-flood>Killian Flood</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/killian-flood>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_3 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/edgar-galvan>Dr&nbsp;Edgar Galvan</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Lecturer  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/edgar-galvan>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/wu-hao>Wu Hao</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/wu-hao>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Electronic_Engineering---Bryan_Hennelly---NUI-Maynooth.jpg?itok=uDxqSvC1" width="550" height="363" alt="Electronic Engineering - Bryan Hennelly - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/bryan-hennelly>Dr&nbsp;Bryan Hennelly</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Associate Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/bryan-hennelly>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_3 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/john-keating>Dr&nbsp;John Keating</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Associate Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/john-keating>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_1 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New.jpg?itok=o5lyzQuS" width="550" height="363" alt="Default Profile Photo - Library" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/liadh-kelly>Dr&nbsp;Liadh Kelly</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Assistant Professor                                                        </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/liadh-kelly>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_2 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/default--grey-books--NUI-Maynooth.jpg?itok=nIyYG_As" width="550" height="363" alt="Default - Grey Scale Books - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/dermot-kelly>Dermot Kelly</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Lecturer  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/dermot-kelly>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_3 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/taina-lehtimaki>Taina Lehtimaki</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/taina-lehtimaki>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_1 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Tom-Lysaght---NUI-Maynooth.jpg?itok=eCfln_92" width="550" height="363" alt="Computer Science -Tom Lysaght - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/thomas-lysaght>Thomas Lysaght</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Deputy Head of Department  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/thomas-lysaght>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Phil-Maguire---NUI-Maynooth.jpg?itok=yugaTsK2" width="550" height="363" alt="Computer Science - Phil Maguire - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/phil-maguire>Dr&nbsp;Phil Maguire</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Lecturer  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/phil-maguire>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_3 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Charles-Markham---NUI-Maynooth.jpg?itok=awRHM4J3" width="550" height="363" alt="Computer Science - Charles Markham - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/charles-markham>Dr&nbsp;Charles Markham</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Associate Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/charles-markham>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_1 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Tim-McGrath.jpg?itok=W6xGvc-m" width="550" height="363" alt="NCG - Tim Mccarthy - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/tim-mccarthy>Prof&nbsp;Tim McCarthy</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Professor   </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/tim-mccarthy>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_2 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---John-McDonald---NUI-Maynooth.jpg?itok=Y4njJCTu" width="550" height="363" alt="Computer Science - John McDonald - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/john-mcdonald>Prof&nbsp;John McDonald</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/john-mcdonald>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_3 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Rosemary-Monahan---NUI-Maynooth.jpg?itok=uOmpdelM" width="550" height="363" alt="Computer Science - Rosemary Monahan - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/rosemary-monahan>Dr&nbsp;Rosemary Monahan</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Associate Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/rosemary-monahan>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/default--grey-books--NUI-Maynooth.jpg?itok=nIyYG_As" width="550" height="363" alt="Default - Grey Scale Books - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/peter-mooney>Dr&nbsp;Peter Mooney</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Lecturer / Assistant Professor  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/peter-mooney>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Aidan-Mooney---NUI-Maynooth.jpg?itok=RFyqdqOA" width="550" height="363" alt="Computer Science - Aidan Mooney - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/aidan-mooney>Dr&nbsp;Aidan Mooney</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Senior Lecturer  </p>  
+  <p class="views-field views-field-field-person-qualifications">        Associate Professor  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/aidan-mooney>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_3 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Dr%20Philip%20Mosec%20Web.jpg?itok=ZNLz0gkJ" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/philippe-moser>Dr&nbsp;Philippe Moser</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Lecturer  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/philippe-moser>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_1 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Tom%20Naughton%20web.jpg?itok=wsgiezZ3" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/thomas-naughton>Prof&nbsp;Thomas Naughton</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/thomas-naughton>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_2 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Mark%20Noone%20-%20Computer%20Science%20-%20Maynooth%20University.jpg?itok=eBGg58th" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/mark-noone>Mark Noone</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        University Tutor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/mark-noone>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_3 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Diarmuid-O%27Donoghue---NUI-Maynooth.jpg?itok=cICx9h5g" width="550" height="363" alt="Computer Science - Diarmuid O&#039;Donoghue - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/diarmuid-odonoghue>Dr&nbsp;Diarmuid O'Donoghue</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Lecturer / Assistant Professor  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/diarmuid-odonoghue>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_1 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Barak%20Pearlmutter%20Web.jpg?itok=WfaFAqPW" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/barak-pearlmutter>Prof&nbsp;Barak Pearlmutter</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/barak-pearlmutter>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Guangyuan%20Piao%20-%20MIEC.jpg?itok=EP1Y1N3w" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/guangyuan-piao>Dr&nbsp;Guangyuan Piao</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Lecturer/ Assistant Professor  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/guangyuan-piao>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_3 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Ronan%20Reilly%20web.jpg?itok=eOmneZbc" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/ronan-reilly>Prof&nbsp;Ronan Reilly</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Executive Vice-Dean of MIEC, Fuzhou University  </p>  
+  <p class="views-field views-field-field-person-qualifications">        Associate Vice-President for International Affairs (Asia)  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/ronan-reilly>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_1 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Dr.%20Christopher%20Roadknight%20-Photo%20Academic.jpg?itok=WPjf1l-n" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/christopher-roadknight>Dr&nbsp;Christopher Roadknight</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Lecturer/ Assistant Professor  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/christopher-roadknight>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_2 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Hadi%20Tabatabaee%20Photo%20Profile%20%20-%20edited.png?itok=Z8abxOrJ" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/hadi-tabatabaee>Dr&nbsp;Hadi Tabatabaee</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        Assistant Professor/Lecturer   </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/hadi-tabatabaee>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_3 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/amy-thompson>Amy Thompson</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/amy-thompson>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Adam%20Winstanley%20Web.jpg?itok=E_Li-DiS" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/adam-winstanley>Prof&nbsp;Adam Winstanley</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Professor  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/adam-winstanley>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/DamianWoods_MaynoothUniversity.jpg?itok=FzIL6TXw" width="550" height="363" alt="A head and shoulders picture of Damien Woods" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/damien-woods>Prof&nbsp;Damien Woods</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/damien-woods>Read Full Biography</a></p>  </div></div></div><div class="row odd last cf m3_3 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Hao%20Wu%20Web.jpg?itok=9tQ9hsuH" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/hao-wu>Dr&nbsp;Hao Wu</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Assistant Professor  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/hao-wu>Read Full Biography</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="block even cf b4 department-people block-3">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="profiles-listing">
+            <div class="view-header">
+      <h2 class="title cb" id="page-title">Administrative</h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/phil-dully>Phil Dully</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/phil-dully>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Des-Noonan---NUI-Maynooth.jpg?itok=IufYNA5f" width="550" height="363" alt="Computer Science - Des Noonan - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/des-noonan>Des Noonan</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/des-noonan>Read Full Biography</a></p>  </div></div></div><div class="row odd last cf m3_3 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/khalila-ismail>Khalila Ismail</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/khalila-ismail>Read Full Biography</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="block odd cf b5 department-people block-4">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="profiles-listing">
+            <div class="view-header">
+      <h2 class="title cb" id="page-title">Technical</h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---James-Cotter---NUI-Maynooth.jpg?itok=j9QKNrAE" width="550" height="363" alt="Computer Science - James Cotter - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/james-cotter>James Cotter</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/james-cotter>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Patrick-Marshall---NUI-Maynooth.jpg?itok=KuBhTx0s" width="550" height="363" alt="Computer Science - Patrick Marshall - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/patrick-marshall>Patrick Marshall</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">        On Career Break  </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/patrick-marshall>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_3 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/michael-monaghan>Michael Monaghan</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/michael-monaghan>Read Full Biography</a></p>  </div></div></div><div class="row even last cf m3_1 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Computer-Science---Vanush-Paturyan---NUI-Maynooth.jpg?itok=jOjgCBEj" width="550" height="363" alt="Computer Science - Vanush Paturyan - Maynooth University" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/vanush-paturyan>Dr&nbsp;Vanush Paturyan</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/vanush-paturyan>Read Full Biography</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="block even cf b6 department-people block-5">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="profiles-listing">
+            <div class="view-header">
+      <h2 class="title cb" id="page-title">Research / Postdoctoral</h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/marie-farrell>Marie Farrell</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/marie-farrell>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/kevin-Fl.jpg?itok=3VzlZSXq" width="550" height="363" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/kevin-flynn>Kevin Flynn</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Project Manager Terrain_AI  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/kevin-flynn>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_3 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/kazeem-abiodun-ishola>Kazeem Abiodun Ishola</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/kazeem-abiodun-ishola>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_1 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/matthew-luckcuck>Matthew Luckcuck</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/matthew-luckcuck>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_2 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/mehrdad-maleki>Dr&nbsp;Mehrdad Maleki</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/mehrdad-maleki>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_3 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/gourav-misra>Dr&nbsp;Gourav Misra</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Earth Observation Scientist (Research Fellow), Terrain_AI  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/gourav-misra>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_1 m4_3"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/colm-ohehir>Dr&nbsp;Colm O'Hehir</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Education &amp; Public Engagement (Terrain_AI)  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/colm-ohehir>Read Full Biography</a></p>  </div></div></div><div class="row even cf m3_2 m4_4"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/tristan-st-rin>Tristan Stérin</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/tristan-st-rin>Read Full Biography</a></p>  </div></div></div><div class="row odd cf m3_3 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/deepak-upreti>Dr&nbsp;Deepak Upreti</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Dynamic Land Surface Modeller, Research Fellow, Terrain_AI  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/deepak-upreti>Read Full Biography</a></p>  </div></div></div><div class="row even last cf m3_1 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Daire-Walsh.jpg?itok=LA7Fz7n5" width="550" height="363" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/daire-walsh>Daire Walsh</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">        Data Software Developer, Terrain_AI  </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/daire-walsh>Read Full Biography</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="block odd cf b7 department-people block-7">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="profiles-listing">
+            <div class="view-header">
+      <h2 class="title cb" id="page-title">Associated Staff</h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first last cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_2_3/public/assets/images/Default-Profile-Photo-Old-and-New_0.jpg?itok=pv8bgAx4" width="550" height="363" alt="Default person profile picture" /></div>  </div>  
+  <h3 class="views-field views-field-title views-field-title">        <a href=our-people/brandt-dainow>Dr&nbsp;Brandt Dainow</a>  </h3>  
+  <p class="views-field views-field-field-person-role-title">          </p>  
+  <p class="views-field views-field-field-person-qualifications">          </p>  
+  <div class="views-field views-field-path views-field-view-node">        <p class='more'><a href=our-people/brandt-dainow>Read Full Biography</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="grid-12" id="region-content-bottom">
+  <div class="region-inner cf">
+    <section class="block odd cf b1 useful-links-org-units block">
+  <div class="block-inner cf">
+              <h2 class="block-title">
+          Further Information      </h2>
+        	<div class="content">
+              
+  
+  
+             
+
+<nav class="nav">
+    <ul class="menu">
+          		    <li class="leaf"><a href="/computer-science/timetables">Timetable 2021-2022</a>            </li>          		    <li class="leaf"><a href="/computer-science/student-handbook-2021-22">Student Handbook 2021-22</a>            </li>          		    <li class="leaf"><a href="/computer-science/equipment-facility">Equipment Facilities</a>            </li>          		    <li class="leaf"><a href="/computer-science/MSc-Computer-Science-Maynooth">MSc Computer Science </a>            </li>          		    <li class="leaf"><a href="/computer-science/internal">Internal</a>            </li>          		    <li class="leaf"><a href="/computer-science/computer-science-summer-school">Computer Science Summer School</a>            </li>          		    <li class="leaf"><a href="/computer-science/introductory-coding-creatives-using-scalable-vector-graphics-svgs-make-emoji-and-cartoon-characters">Introductory Coding for Creatives: Using Scalable Vector Graphics (SVGs) to make Emoji and Cartoon Characters</a>            </li>          		    <li class="leaf"><a href="/computer-science/springboard/hci-pillar-one">HCI Pillar One HDip Human-Computer Interaction &amp; User Experience</a>            </li>          		    <li class="leaf"><a href="/computer-science/springboard">Springboard+ HDip in Science (Software Development)</a>            </li>          		    <li class="leaf"><a href="/computer-science/pact">PACT (Programming + Algorithms ≈ Computational Thinking)</a>            </li>          		    <li class="leaf"><a href="/computer-science/current-postgrads">Current Postgrads</a>            </li>          		    <li class="leaf"><a href="/computer-science/megadojo2018">DojoMór</a>            </li>          		    <li class="leaf"><a href="/computer-science/coderdojo">Coderdojo</a>            </li>          		    <li class="leaf"><a href="/computer-science/summer-camps">Summer Camp 2021</a>            </li>            </ul>
+</nav>
+
+      
+  
+  
+  
+  
+  	</div>  
+  </div>
+
+</section><div class="block even cf b2 share---back-to-top">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div id="share-back-top" class="cf cb block" ><a id="user-b2t" href="#main-content" class="smoothscroll">Back to top</a></div>	</div>  
+  </div>
+
+</div>  </div>
+</div>    
+  </div>
+  
+</div>  </div>
+</div> 
+</section>
+
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="bg-474747">  
+  <div id="zone-footer" class="clearfix container-12">
+    <div class="grid-12" id="region-footer">
+  <div class="region-inner cf">
+    
+<nav  class="block odd cf b1 nav only-mobile primary">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf has-children menu-mlid-8232 research"><a href="/research">Research</a></li>
+<li  class="leaf has-children menu-mlid-363 study-at-maynooth"><a href="/study-maynooth">Study at Maynooth</a></li>
+<li  class="leaf has-children menu-mlid-364 campus-life"><a href="/campus-life">Campus Life</a></li>
+<li  class="leaf menu-mlid-11719 a-short-history-of-russia-039-s-long-standing-paranoia-about-the-west"><a href="/research/spotlight-research/short-history-russias-long-standing-paranoia-about-west">A short history of Russia&#039;s long standing paranoia about the West</a></li>
+<li  class="leaf menu-mlid-8472 ivi-research"><a href="/ivi-research">IVI Research</a></li>
+<li  class="leaf menu-mlid-9794 latest-news"><a href="/research/maynoothworks/news-events/latest-news">Latest News</a></li>
+<li  class="leaf menu-mlid-8228 love-across-borders"><a href="/research/spotlight-research/love-across-borders">Love Across Borders</a></li>
+<li  class="leaf menu-mlid-9792 people"><a href="/research/maynoothworks/our-people">People</a></li>
+<li  class="leaf menu-mlid-10978 phd-students"><a href="https://www.maynoothuniversity.ie/music/">PhD Students</a></li>
+<li  class="leaf menu-mlid-11239 phd-and-research-programmes"><a href="/study-maynooth/postgraduate-studies/phd-research-programmes">PhD and Research Programmes</a></li>
+<li  class="leaf menu-mlid-11445 science-week-how-covid-lateral-flow-tests-work"><a href="/research/spotlight-research/science-week-how-covid-lateral-flow-tests-work">Science Week: How Covid lateral flow tests work</a></li>
+<li  class="leaf menu-mlid-8499 small-firm-digitization-survey-ireland-and-uk"><a href="/small-firm-digitization-survey-ireland-and-uk">Small Firm Digitization Survey (Ireland and UK)</a></li>
+<li  class="leaf menu-mlid-11735 taught-programmes"><a href="/study-maynooth/postgraduate-studies/micro-credentials">Taught Programmes</a></li>
+<li  class="leaf menu-mlid-11296 teaching_and_covid-19"><a href="https://www.maynoothuniversity.ie/psychology/" title="Teaching and Covid-19">Teaching_and_Covid-19</a></li>
+<li  class="leaf menu-mlid-9793 upcoming-events"><a href="/research/maynoothworks/news-events/upcoming-events">Upcoming Events</a></li>
+<li  class="leaf menu-mlid-8588 chronologicon-hibernicum"><a href="https://www.maynoothuniversity.ie/chronologiconhibernicum">Chronologicon Hibernicum</a></li>
+<li  class="last leaf menu-mlid-8462 medren-2018"><a href="https://www.maynoothuniversity.ie/music/events/medieval-and-renaissance-music-conference-medren-2018">MedRen 2018</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav><div class="block even cf b2 disclaimer disclaimer">
+  <div class="block-inner cf">
+            	<div class="content">
+      <p id="disclaimer">Ollscoil Mhá Nuad<br />Maigh Nuad<br />Co. Chill Dara<br />Éire</p>
+<p id="disclaimer">Maynooth University<br />Maynooth,<br />Co. Kildare,<br />Ireland.</p>	</div>  
+  </div>
+
+</div>
+<nav  class="block odd cf b3 nav only-mobile utility">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf has-children menu-mlid-439 about-us"><a href="/about-us">About Us</a></li>
+<li  class="leaf has-children menu-mlid-1045 departments"><a href="/departments">Departments</a></li>
+<li  class="leaf menu-mlid-5959 a-z-index"><a href="/az-index">A-Z Index</a></li>
+<li  class="leaf menu-mlid-1697 people-finder"><a href="/people">People Finder</a></li>
+<li  class="leaf has-children menu-mlid-442 news-events"><a href="/news-events">News &amp; Events</a></li>
+<li  class="leaf has-children menu-mlid-443 location"><a href="/location" title="Location">Location</a></li>
+<li  class="leaf has-children menu-mlid-444 contact"><a href="/contact">Contact</a></li>
+<li  class="leaf has-children menu-mlid-3802 for-staff"><a href="/staff">For Staff</a></li>
+<li  class="leaf menu-mlid-447 for-alumni"><a href="/daro">For Alumni</a></li>
+<li  class="leaf has-children menu-mlid-3803 for-current-students"><a href="/current-students">For Current Students</a></li>
+<li  class="last leaf menu-mlid-8160 maynooth-at-20"><a href="/maynooth-university-at-20">Maynooth at 20</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav>
+<nav  class="block even cf b4 nav footer">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf menu-mlid-7096 library"><a href="/library">Library</a></li>
+<li  class="leaf menu-mlid-548 vacancies"><a href="https://www.maynoothuniversity.ie/human-resources/vacancies" target="_blank">Vacancies</a></li>
+<li  class="leaf has-children menu-mlid-549 gaeilge-san-ollscoil"><a href="/oifig-na-gaeilge">Gaeilge san Ollscoil</a></li>
+<li  class="leaf menu-mlid-2498 sitemap"><a href="/sitemap">Sitemap</a></li>
+<li  class="leaf has-children menu-mlid-3603 university-policies"><a href="/university-policies">University Policies</a></li>
+<li  class="leaf menu-mlid-553 accessibility"><a href="/accessiblity">Accessibility</a></li>
+<li  class="last leaf menu-mlid-11166 cookie-declaration"><a href="/cookie-declaration" title="Cookie Declaration" accesskey="c">Cookie Declaration</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav>
+<nav  class="block odd cf b5 footer">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf for-current-students"><a href="/current-students">For Current Students</a></li>
+<li  class="leaf for-staff"><a href="/staff">For Staff</a></li>
+<li  class="leaf for-alumni"><a href="http://www.nuim.ie/alumni-office">For Alumni</a></li>
+<li  class="leaf for-visitors"><a href="https://www.maynoothuniversity.ie/campus-services/visitors">For Visitors</a></li>
+<li  class="last leaf support-maynooth"><a href="/daro/support">Support Maynooth</a></li>
+</ul>	</div>
+  </div>
+ 
+</nav>
+<nav  class="block even cf b6 social">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf facebook"><a href="https://www.facebook.com/maynoothuniversity " title="Like us on Facebook" target="_blank">Facebook</a></li>
+<li  class="leaf twitter"><a href="https://twitter.com/MaynoothUni" title="Follow us on Twitter" target="_blank">Twitter</a></li>
+<li  class="leaf linkedin"><a href="https://www.linkedin.com/edu/school?id=19933&amp;trk=ppro_sprof" title="Connect with us on LinkedIn" target="_blank">LinkedIn</a></li>
+<li  class="last leaf youtube"><a href="http://www.youtube.com/user/GoMaynooth" title="View our video channel" target="_blank">YouTube</a></li>
+</ul>	</div>
+  </div>
+ 
+</nav>  </div>
+</div>  </div>
+</div><div id="zone-footer-bottom-wrapper">  
+  <div id="zone-footer-bottom" class="clearfix container-12">
+    <div class="grid-6" id="region-footer-left">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 footer:-disclaimer-maynooth-logos">
+  <div class="block-inner cf">
+            	<div class="content">
+      <p id="disclaimer" class="logo-registered">Maynooth University & Maynooth University logo are registered trademarks of the National University of Ireland, Maynooth.</p>	</div>  
+  </div>
+
+</div>  </div>
+</div><div class="grid-6" id="region-footer-right">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 maynooth-education-forum-logo">
+  <div class="block-inner cf">
+            	<div class="content">
+      <p class="top-50"><a href="/about-us"><img src="/sites/default/files/assets/images/Top_90.jpeg" alt="Top 90" /></a></p>
+<p><a href="/knownobounds"><img src="/sites/all/themes/nuim_themes/nuim/img/M10520_Maynooth_University_Know_No_Bounds_Logo_English-RGB.jpeg" alt="Maynooth Know no bounds" /></a></p>	</div>  
+  </div>
+
+</div>  </div>
+</div>  </div>
+</div></footer>  <div id="credit-b2t" class="container-12"><span id="bottom-b2t"><a href="#section-header" class="smoothscroll">Back to top</a></span></div>
+	</body>
+</html>

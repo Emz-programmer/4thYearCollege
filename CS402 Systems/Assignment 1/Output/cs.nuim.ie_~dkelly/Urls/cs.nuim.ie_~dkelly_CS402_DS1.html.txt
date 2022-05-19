@@ -1,0 +1,128 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.01 [en] (Win95; I) [Netscape]">
+   <TITLE>CS402 Distributed Systems - Dermot Kelly</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER>
+<H2>
+CS402 Distributed Systems<BR>
+<A HREF="http://www.cs.may.ie/~dkelly">Dermot Kelly</A></H2></CENTER>
+
+<CENTER><B>Introduction</B></CENTER>
+
+
+<P>A<B> Distributed System</B> is composed of a collection of independent
+processors that do not share physical memory or a clock. Each processor
+has its own local memory and the processors communicate using local and
+wide area networks.
+
+<P>A <B>Distributed Operating System</B> attempts to make this architecture
+seamless and transparent to the user to facilitate the sharing of heterogeneous
+resources in an efficient, flexible and robust manner. Its aim is to shield
+the user from the complexities of the architecture and make it appear to
+behave like a timeshared centralized environment.
+
+<P>Distributed Operating Systems offer a number of potential benefits over
+centralized systems. The availability of multiple processing nodes means
+that load can be shared or balanced across all processing elements with
+the objective of <B>increasing throughput and resource efficiency</B>.
+Data and processes can be replicated at a number of different sites to
+<B>compensate for failure</B> of some nodes or to <B>eliminate bottlenecks</B>.
+A well designed system will be able to <B>accommodate growth in scale</B>
+by providing mechanisms for distributing control and data.
+
+<P><B>Communication </B>is the central issue for distributed systems as
+all process interaction depends on it. Exchanging messages between different
+components of the system incurs delays due to data propagation, execution
+of communication protocols and scheduling. Communication delays can lead
+to <B>inconsistencies </B>arising between different parts of the system
+at a given instant in time making it difficult to gather global information
+for decision making and making it difficult to distinguish between what
+may be a delay and what may be a failure.
+
+<P><B>Fault tolerance</B> is an important issue for distributed systems.
+Faults are more likely to occur in distributed systems than centralized
+ones because of the presence of communication links and a greater number
+of processing elements, any of which can fail. The system must be capable
+of reinitializing itself to a state where the <B>integrity of data </B>and
+state of <B>ongoing computation</B> is preserved with only some possible
+<B>performance degradation</B>.
+
+<P>A distributed architecture consisting of heterogeneous hardware with
+the complexity problems hinted at above is a potentially very unfriendly
+platform for a user. The <B>principle of transparency</B> is used at many
+levels in the design of a distributed system to mask implementation details
+and complexities from the user. This ranges from providing the ability
+to access local and remote devices in a uniform way, independent of location
+to automated data and process replication, load balancing and recovery.
+The goal of a distributed operating system is to provide a high-performance
+and robust computing environment with the least awareness of the management
+and control of distributed resources but with the flexibility to manipulate
+the environment if required.&nbsp;<A NAME="index"></A>
+
+<P>This course will address issues in the design of distributed operating
+systems focusing on:-
+<UL>
+<UL>
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS2.html">Architectural Models</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS4a.html">Computational Models</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS4b.html">Models of Synchrony</A></LI>
+
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS5.html">Processes and Threads</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS8a.html">Groups</A></LI>
+
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS9.html">Load Distribution</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS12.html">Migration</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS402/DS19.html">Scheduling
+Algorithms</A></LI>
+
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS24.html">Interprocess Communication</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS26.html#message">Message Passing</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS28.html#RPC">RPC</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS402/DS32.html">Multicast</A></LI>
+
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS37.html#event">Event Ordering and
+Time Services</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS402/DS38.html#physical">Physical
+Clocks</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS402/DS38.html#logical">Logical
+Clocks</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS402/DS39.html#vector">Vector
+Clocks</A></LI>
+
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS41.html">Atomic Transactions</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS42.html">Concurrency</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS402/DS50.html">Recovery</A></LI>
+
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS53.html">Distributed Shared Memory</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS61.html">Distributed File and Database
+Systems</A>,
+<a href="http://www.cs.may.ie/~dkelly/CS402/DS66.html">AFS</a>,
+<a href="http://www.cs.may.ie/~dkelly/CS402/DS67.html#NFS">NFS</a>
+</LI>
+
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS56.html">Naming</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS402/DS59.html">Authentication</A></LI>
+
+<LI>
+<a href="http://www.cs.may.ie/~dkelly/CS402/DS69.html">Fault Tolerance</a>,
+<a href="http://www.cs.may.ie/~dkelly/CS402/DS69.html#Active">Active Replication</a>, 
+<a href="http://www.cs.may.ie/~dkelly/CS402/DS73.html">Primary-Backup</a>
+</LI>
+
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/DREF.html">References</A></LI>
+
+<LI>
+<A HREF="http://www.cs.may.ie/~dkelly/CS402/SummerExam97.html">Summer Exam 1997</A></LI>
+</UL>
+</UL>
+
+<CENTER>[<A HREF="http://www.cs.may.ie/~dkelly/CS402/DS2.html">Begin Course</A>]</CENTER>
+
+</BODY>
+</HTML>

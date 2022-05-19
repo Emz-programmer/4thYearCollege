@@ -1,0 +1,271 @@
+<HTML>
+<HEAD>
+<TITLE>index</TITLE>
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080">
+<FONT FACE="Arial, Helvetica" SIZE=2>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">CONTACT DETAILS </P>
+</B></FONT><BR>
+<FONT FACE="Courier">
+John G Keating, BSc, PhD, CPhys, MInstP,<BR>
+Senior Lecturer,<BR>
+Department of Computer Science,<BR>
+National University of Ireland, Maynooth,<BR>
+Maynooth, Co. Kildare, Ireland.<BR><BR>
+TEL: +353 1 708 3854<BR>
+FAX: +353 1 708 3848<BR><BR>
+Email:<A HREF="mailto:john.keating@may.ie">john.keating@may.ie</A><BR>
+</FONT>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">RESEARCH INTERESTS</P>
+</B></FONT>
+<P ALIGN="JUSTIFY">I have research interests in Physiological Modelling including Artificial Neural Networks and Signal Processing, and in conjunction with my research group at NUIM and my collaborators, I am currently investigating optical and acousto-optical implementations of neural networks and associated algorithms. This research has been made possible through research funding obtained from Irish (Enterprise Ireland) and European (Esprit) agencies and, in particular, the 5<SUP>th</SUP> Framework project "ROPE" which was specifically concerned with optical implementations of artificial neural networks. </P>
+<P ALIGN="JUSTIFY">My group has successfully implemented two connectionist architectures, and has recently developed two new algorithms suitable for implementation of the generalized Hough transform, and the Hough transform. We have also demonstrated that it is possible to implement matrix-vector multiplication using an LCD panel, a CCD detector and an Acousto-Optic device, and utilise the recorded vector sum in an algorithm. I plan, with the aid of further research funding, to produce an optical co-processor, under computer control, which may be used for numerical calculation of this type.</P>
+<P ALIGN="JUSTIFY">I am also interested in the fundamental limits on the computation possible using such a co-processing system, and in particular, the effects of system noise on the computation. It has been demonstrated that artificial neural networks learning is enhanced when trained in the presence of noise, and my research group is currently investigating specific and general examples of training-with-noise for optical computing arrangements.</P>
+<P ALIGN="JUSTIFY">I believe that Optical Information Processing (OIP) will be an important future technology, as it provides inherently parallel computation, and plan to establish NUIM as a centre of excellence in OIP. This requires a substantial investment in personnel, laboratory facilities and management, and I am actively pursuing a number of avenues for funding this programme.</P>
+<P ALIGN="JUSTIFY">I am interested in promoting Science and Computer Science for second-level students. In conjunction with colleagues in the University of Maryland Baltimore County, Tennessee State University, the Telescopes in Education Foundation, Raytheon ITSS, and NASA Goddard Space Flight Center propose to provide access to the NASA-sponsored Telescopes In Education (TIE) environment to Irish schools. The project objective is to provide real-time, hands-on, interactive access to about 20 telescopes thus promoting Science (in particular Astronomy) and Computer Science in second-level schools. The international team proposes to integrate the online telescopes seamlessly into one virtual observatory with worldwide access. They will develop and provide the services required to operate the facility, including a scheduling service, data manipulation tools, online proposal and review environments, and an online journal for publication of results. The NUI Maynooth team will be responsible for developing online services worldwide, including scheduling and data-manipulation software. Specialist image processing software usable by second-level students will be developed specifically for the project. Given the international nature of the project, both Spanish and English language user interfaces will be provided. Central to the operation of this project and facility is a Sun E450 server kindly donated by Sun Microsystems Strategic Software Development Centre in Dublin which develops key components for a wide range of Sun's software product lines.  Responsibilities of this centre include operating/networking systems development, webtop/desktop development, software localisation and system test for product lines including Solaris, Java, Thin Client and Information Appliance product lines and software localisation activities for markets worldwide.
+<P ALIGN="JUSTIFY">I have interests in emerging Telecom Technologies and their influence on the design of publicly-accessible software applications, for example, web-enabled software. I have developed and compared database-driven, web-enabled software that dynamically generate user interfaces for various clients. I am particularly interested in what is possible using current WWW browser technologies from a user-interaction perspective, and have been investigating the development of applications suitable for use by children (drawing, developing interacting and computing skills, and communicating technologies). I would also like to see the development of culturally adaptable user-interfaces, particularly in WWW environments.</P>
+<P ALIGN="JUSTIFY">I am also interested in software development, and I am particularly interested in the developments in security and human computer interaction issues of Internet (Web) based software. I am currently investigating several techniques for secure provision of mobile code, and methods of secure communication. I am also investigating the various interaction mechanisms provided by web environments and their effects on user interface construction. I am very interested in the development of adaptive, multilingual user interfaces.</P>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">PROFESSIONAL ACTIVITIES</P>
+<UL>
+</B></FONT>
+<P ALIGN="JUSTIFY"><LI>I was a Reviewer for <I>Grant Agency of Czech Republic</I> (July, 2001).</LI></P>
+<P ALIGN="JUSTIFY"><LI>I was Workshop Chair (E-Commerce) for a <I>Centre for Cross-Border Studies</I> organised ICT Workshop (7 September, 2000).</LI></P>
+<P ALIGN="JUSTIFY"><LI>I have been a member of the following NUIM Committees: Department of Computer Science <I>Postgraduate Committee</I>, <I>University Research Committee</I> (co-opted member), <I>College Computer Committee</I> (Faculty of Science Representative), <I>Business Innovation Committee</I> (co-opted).</LI></P>
+<P ALIGN="JUSTIFY"><LI>I was a founding partner of <I>Eclipse Internet Services Ltd.</I>, a NUIM Campus Company, and served on the board of directors for three years. During that time I was actively involved in securing contracts for the company.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I am actively involved in the Department of Computer Science/Hewlett Packard Schools Programming Competition. I teach programming the Boys National School, Maynooth.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I regularly visit schools to encourage students to consider careers in Computer Science. I have had several invitations to speak at Career Days held by schools in the university catchment area.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I am member of the Institute of Physics (IOP), and regularly travel to Applied Optics meetings in the IOP, and present research findings. </LI></P>
+<P ALIGN="JUSTIFY"><LI>I have managed several research projects, including one Esprit project involving three partners. I have also managed projects, which included industrial partners.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I have been a reviewer for the following research grant panels<I>: Enterprise Ireland Basic Research Grants Scheme</I>, and <I>Enterprise Ireland Basic Applied Grants Scheme</I>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I am interested in software development, and have developed commercial (web-based) solutions. I believe that this is important as it helps me to keep aware of current trends and developments, and allows me to pass on real experiences to my Software Engineering students.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I enjoy programming and problem solving, and participate in Programming Contests whenever possible. I recently came second in the <I>Obfuscated Perl Programming Contest</I> (world entry). I have implemented several web-based puzzle games, which have attracted interested from publishers interested in the web development techniques used.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I have served on NUIM interview panels for <I>Technician</I>, <I>Lecturer</I>, <I>Senior Lecturer</I> and <I>Associate Professor</I>.</LI></P></UL>
+
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">CAREER HISTORY</P>
+
+<UL>
+</B></FONT><P ALIGN="JUSTIFY"><LI>(1999-2000) <I>Senior Lecturer, </I>Department of Computer Science, National University of Ireland, Maynooth (NUIM), Maynooth, Co. Kildare, Ireland.</LI></P>
+<P ALIGN="JUSTIFY"><LI>(1993-1999) <I>Lecturer</I> (Permanent Appointment), Department of Computer Science, St. Patricks College, Maynooth, Co. Kildare, Ireland (currently NUIM).</LI></P>
+<P ALIGN="JUSTIFY"><LI>(1992-1993) <I>Junior Lecturer</I> (Contract Appointment), Department of Computer Science, St. Patricks College, Maynooth, Co. Kildare, Ireland (currently NUIM).</LI></P>
+<P ALIGN="JUSTIFY"><LI>(1991-1992) <I>Lecturer in Software Engineering</I> (Permanent Appointment), Advanced Technology Training, 38 Harcourt Street, Dublin 2.</LI></P>
+<P ALIGN="JUSTIFY"><LI>(1990-1991) <I>Junior Lecturer</I> (Contract Appointment), Department of Computer Science, St. Patricks College, Maynooth, Co. Kildare, Ireland (currently NUIM).</LI></P></UL>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">EDUCATION</P>
+</B></FONT><I><P ALIGN="JUSTIFY">Academic Courses</P></I>
+
+<UL>
+<P ALIGN="JUSTIFY"><I><P ALIGN="JUSTIFY"><LI>B.Sc. 1986</I>. Second class, Grade one. Joint Honours Degree in Experimental Physics and Mathematics, St. Patricks College, Maynooth, Co. Kildare, (NUIM). First Year: Experimental Physics, Mathematical Physics, Mathematics, Biology. Second/Third Year: Experimental Physics, Mathematical Physics, Mathematics. I received a Distinction in my Third Year Examinations. Fourth Year: Experimental Physics, Mathematics.</LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Ph.D.1990</I>. Experimental Physics. Title of thesis: High-latitude observations of F-region dynamics. Research conducted in St. Patricks College, Maynooth, Co. Kildare, (NUIM) and Rutherford Appleton Laboratory, Chilton, Didcot, Oxfordshire, UK. </LI></P></UL>
+
+<I><P ALIGN="JUSTIFY">Professional Courses</P>
+
+<UL>
+<P ALIGN="JUSTIFY"><LI>Java Programming</I>, Cary Jensen, Borland Developer Days, London, (5 day course), Theoretical/Instructive, 1998.</LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Unix System Administration using Solaris</I>, Horizon Computing, Dublin, (5 Day Course), Pass (Practical), Qualification: System Administrator (Solaris), 1993.</LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Database Administration using ORACLE</I>. Oracle Corporation, Bristol. (5 Day Course), Pass (Practical). Qualification: Database Administrator (DBA), 1991.</LI></P></UL>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">LECTURING EXPERIENCE AND CURRICULUM DEVELOPMENT</P>
+
+<UL>
+</B></FONT><P ALIGN="JUSTIFY"><LI>I have been lecturing for eleven years at NUIM. I have been involved in the lecture schedule for all years on the following programmes: <I>B. Sc. Degree</I>, <I>Diploma in Information Technology</I>, <I>Masters in Software Engineering</I>, and <I>Masters in Computer Science</I>. I was the Course Co-ordinator for the following years: <I>First Year</I>, <I>B.Sc.</I>, <I>Masters in Computer Science</I>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I have taught core introductory computer science <I>courses (Introduction to Computer Programming</I>) for the past five years at NUI Maynooth. The languages used for these courses were Java and Modula-2, and I planned and implemented the restructuring of this course to incorporate object-orientated methodologies. I have also taught the introductory course: <I>Introduction to Computer Systems</I>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>For the past three years, I have taught the Masters in Software Engineering course <I>Localisation and Human Computer Interaction</I> at NUI Maynooth. I devised the content and syllabus for the course, which concentrates on the development of portable user interfaces for web-based software. An editor (Gaynor Redvers-Mutton) for publishers John Wiley and Sons Ltd. recently proposed that I produce at textbook for their company based on this course. I have applied for sabbatical for year 2000-2001 partly to pursue this project.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I have also taught courses on <I>Compiler Construction</I>, <I>Software Engineering, Information Processing</I>, <I>Computer Networks</I>, <I>Parallel Processing and Concurrency</I>, and <I>Neural Networks for Image Processing</I>. I was responsible for the creation of the syllabus and content for the following courses: <I>Parallel Processing and Concurrency</I>, and <I>Neural Networks for Image Processing.</LI></P>
+</I><P ALIGN="JUSTIFY"><LI>I was involved in the development of courses for the newly introduced degree<I> B.Sc. (Software Engineering)</I>, in particular, the <I>First Year</I> courses, and the courses in <I>Human-Computer Interaction</I>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I was involved in the creation of the newly proposed degree <I>BA (Informatics)</I> which is hoped to be available to the Faculty of Arts in 2001. I will be the course co-ordinator for this degree, which will be given by the department of <I>Computer Science</I> in co-operation with the departments of <I>Psychology</I>, and <I>Economics</I>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I have supervised and corrected approximately twenty final year projects. Many of the projects were industry or research driven and almost all of my postgraduate students were former final-year project students. I have supervised laboratory sessions, given tutorials, and held review seminars for all courses that I have taught.</LI></P></UL>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">EXAMINING EXPERIENCE</P>
+
+<UL>
+</B></FONT><P ALIGN="JUSTIFY"><LI>I have examined all of the above courses mentioned in the previous section, and recently restructured the First Year examination in Computer Science in order to introduce multiple-choice papers (for electronic correction).</LI></P></UL>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+
+<UL>
+<P ALIGN="JUSTIFY"><LI>I have been an external examiner (including <I>viva</I>) for several artificial neural networks theses from the Department of Computer Science, Trinity College Dublin. I have been the internal examiner for a Ph.D. thesis from NUI Maynooth. I have been the internal examiner for several Masters Theses. </LI></P>
+<P ALIGN="JUSTIFY"><LI>I have conducted information technology examinations for <I>The City and Guilds of London</I> organisation. I have also reviewed, and set examination papers for new courses in <I>Information Technology (Databases)</I> for <I>The City and Guilds of London</I>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I have been a Senior Invigilator for the NUI Maynooth Examinations Office during the academic years 1993-98.</LI></P>
+<P ALIGN="JUSTIFY"><LI>I have participated as a Course Developer and Lecturer for two<I> Short Courses in Secure Communication</I> (1994,1995) for the Mathematics Department, NUI Maynooth.</LI></P></UL>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">PUBLICATIONS</P>
+</B></FONT>
+<I><P>Peer Reviewed Reports</P></I>
+<P ALIGN="JUSTIFY">S.Bergin and <U>J. G. Keating</U>, An Online Tariffication System: www.B4Ucall.com, <I>The Evolution of Telecom Technologies: Current Trends and Near Furure Implications, Report Comissioned by The Centre for Cross Border Studies</I>, pp. 13-22, February, 2001.</P>
+<P ALIGN="JUSTIFY">S.Bergin and <U>J. G. Keating</U>, An Analysis of mobile phone calling costs in Northern Ireland and the Republic of Ireland, <I>The Evolution of Telecom Technologies: Current Trends and Near Furure Implications, Report Comissioned by The Centre for CrossBorder Studies</I>, pp. 23-42, February, 2001.</P>
+<I><P>Journal Articles</P></I>
+<P ALIGN="JUSTIFY">A. Dowling and <U>J. G. Keating</U>, A Proxy-Based Security Architecture for Internet Applications in an Extranet Environment, <I>Journal of Systems and Software</I>, <I>In press</I>, (estimated 3rd Quarter, 2001).</P>
+<P ALIGN="JUSTIFY">Z. Javadpour and <U>J. G. Keating</U>, A connectionist model of the generalized Hough transform for optical implementation, <I>Optical Engineering</I>, Vol. 39, No. 6, pp. 1717-1722, 2000.</P>
+<P ALIGN="JUSTIFY">T. Naughton, Z. Javadpour, <U>J. G. Keating</U>, J. Rott, M. Klima, A General-purpose acousto-optic connectionist processor, <I>Optical Engineering</I> , Vol. 38, No. 7, July 1999<B>.</P>
+</B><P ALIGN="JUSTIFY">F. Feeney, C. Chivers, J.A. Evertsen and <U>J. Keating</U>, The influence of inhomogeneity on the propagation of ultrasound in wood, <I>Ultrasonics</I>, Vol. 36, pp. 219-222, 1998.</P>
+<P ALIGN="JUSTIFY">B. Hass, <U>J. Keating</U>, C.T. Griffin and M. Downes, Application of the most probable number method to estimations of entomopathogenic nematode populations in soil<I>, Annals of Applied Biology</I>, Vol. 131, pp. 471-480, 1997.</P>
+<P ALIGN="JUSTIFY">M. Kl&iacute;ma, J. Rott, P. Dvorak, S. McKenna-Lawlor, D. Gleeson, <U>J. Keating</U> Model of 2D Optical Correlator for Fingerprint Identification<I>, IEEE AES Systems Magazine</I>, July, pp. 3-9, 1997.</P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U>, Hopfield Networks, Neural Data Structures and the Nine Flies Problem: Neural network programming projects for undergraduates, <I>SIGCSE BULLETIN</I>, Vol. 25, No 4, pp. 33-6, 1993.</P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U>, F. J. Mulligan, D. B. Doyle, K. Winser and M. Lockwood, A statistical study of large field-aligned flows at high-latitudes, <I>Planetary and Space Science</I>, Vol. 38, No. 9, p. 1187, 1990.</P>
+<I><P>Conference Articles based on full-paper review</P>
+</I><P ALIGN="JUSTIFY">M. Kl&iacute;ma, J. Rott, T. Naughton and <U>J. Keating</U>, 2-D Correlation and its JTC Optical Implementation, Proceedings of 8th Annual IEEE Radioelektronika Conference, pp. 297-300, Brno, Czech Republic, April 1998.</P>
+<P ALIGN="JUSTIFY">M. Kl&iacute;ma, J. Rott, T. Naughton and <U>J. Keating</U>, JTC and its properties, Proceedings of Workshop `98: Electronics and Instrumentation, pp. 291-292, Czech Technical University in Prague, Czech Republic, February 1998.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour, T.Naughton<U>, J.G.Keating</U>, J.Rott, M.Klima, A Reconfigurable Acousto-optical Implementation of the Hough Transform, CLEO/EUROPE-EQEC, Glasgow, UK., September 1998.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour, T. Naughton, <U>J. Keating</U>, M. Kl&iacute;ma and J. Rott, A reconfigurable acousto-optical implementation of the Hough transform, Proceedings of European Conference on Lasers and Electro-Optics 1998, p.189, Glasgow, Scotland, September 1998.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour, T. Naughton, <U>J. Keating</U>, J. Rott and M. Kl&iacute;ma, A real-time Hough transform, Proceedings of OESI-IMVIP Joint Conference, pp. 185-198, Maynooth, Ireland, September 1998.</P>
+<P ALIGN="JUSTIFY">M. Kl&iacute;ma, J. Rott, T. Naughton and <U>J. Keating</U>, "Joint transform correlation in security applications", Proceedings of 31st Annual IEEE International Carnahan Conference on Security Technology, pp. 77-81, Canberra, Australia, October 1997.</P>
+<P ALIGN="JUSTIFY">M. Kl&iacute;ma, J. Rott, P. Dvorak, S. McKenna-Lawlor, D. Gleeson, <U>J. Keating</U>, Model of 2D Optical Correlator for Fingerprint Identification, <I>Proceedings of the 30th IEEE Carnahan Conference on Security Technology</I>, Kentucky, USA, 1997.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour, D. Hughes, <U>J.G. Keating</U>, F.E. Feeney, J.A. Evertsen Assessment of Timber Quality using Neural Networks on CT Images<I>, Proceedings of the 10th Int. Symp. on Nondestructive Testing of Wood</I> (Ed. J.L. Sandoz), pp. 303-311, 1996.</P>
+<P ALIGN="JUSTIFY">F. Feeney, R.C. Chivers, J.A. Evertsen, <U>J. Keating</U> The influence of inhomogeneity on the propagation of ultrasound in wood<I>, Proceedings of the 10th Int. Symp. on Nondestructive Testing of Wood </I>(Ed. J.L. Sandoz), pp. 73-82, 1996.</P>
+<P ALIGN="JUSTIFY">M. Kl&iacute;ma, P. Dvorak, J. Rott, S. McKenna-Lawlor, D. Gleeson and <U>J.G. Keating</U> Experimental Model of a Combined Optical Processing System, <I>Proceedings of the 29th IEEE Annual 1995 International Carnahan Conference on Security Technology</I>, 18-20 October, 1995, Surrey, pp. 388-390, 1995.</P>
+<P ALIGN="JUSTIFY">Whyte, R. N. and <U>J. G. Keating</U>, An artificial neural network for solving the correspondance problem using colour information, <I>Proceedings of the 1995 World Congress on Neural Networks</I>, Washington, DC, 1995.</P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U>, A. F. Murray and C. Campbell, A Digital Integrated Circuit suitable for implementing Artificial Neural Networks with Binary Weights, <I>Proceedings of the Thirteenth IASTED International Conference on Informatics</I>, 21-23 February 1995, Innsbruck, pp. 145-147, 1995.</P>
+<P ALIGN="JUSTIFY">Murphy, C. and <U>J.G. Keating</U>, Performance Comparison of SIFRAME and ToolTalk in an Integrated Tool Environment, Proceedings of EUROMICRO'95, 4-7 September, 1995, Como, 1995.</P>
+<P ALIGN="JUSTIFY">O'Driscoll, C.J., <U>J.G. Keating</U> and K. Adamson, A Software Tool for Implementing Neural Networks on an Array of Transputers, <I>Proceedings of Thirteenth IASTED International Conference on Informatics</I>, 21-23 February 1995, Innsbruck, pp. 257-260.</P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U>, F. Owens and K. Adamson, Artificial Neural Networks and Articulatory-Based Speech Synthesis, <I>Proceedings of Thirteenth IASTED International Conference on Informatics</I>, 21-23 February 1995, Innsbruck, pp. 91-93, 1995.</P>
+<P ALIGN="JUSTIFY">Murphy, C. and<U> J. G. Keating</U>, Implementing Inter-Tool Communication in an Open-Design Framework, <I>Proceedings of Thirteenth IASTED International Conference on Informatics</I>, 21-23 February, 1995, Innsbruck, pp. 283-286, 1995.</P>
+<P ALIGN="JUSTIFY">D. O'Donoghue, <U>J. G. Keating</U>, J. Duffin, D. Hughes, F. E. Feeney, V. Lawlor and J. A. Evertsen, Sitka Spruce Quality Estimation using Artificial Neural Networks<I>, 4th Irish Neural Networks Conference, 11-12 September 1994, Dublin</I>, pp. 165-169, 1994.</P>
+<P ALIGN="JUSTIFY">C. Campbell, C. Perez-Vicente and <U>J. G. Keating</U>, Constructive Algorithms for Neural Networks with Binary Weights and Applications to Motion Detection,<I> 4th Irish Neural Networks Conference, 11-12 September 1994, Dublin</I>, pp. 31-36, 1994.</P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U>, J. Halligan, Adamson, K., D. Gleeson, M. Klima and S. McKenna-Lawlor (1994), A Software Tool for Investigating Optical Signal Processing<I>, CLEO/Europe-EQEC 1994, 28 August - 2 September 1994</I>, Amsterdam, 1994.</P>
+<P ALIGN="JUSTIFY">Seery, J. and <U>J. G. Keating</U>, A 4GL for Multiple Graphical User Interface Code Generation, <I>Proceedings of Twelfth</I> <I>IASTED International Conference on Applied Informatics, </I>25-27 May, 1994, Annecy, pp. 214-217, 1994.</P>
+<P ALIGN="JUSTIFY">R. I. O'Tiarnaigh, <U>J. G. Keating</U>, J. Halligan, J.G. Keating, J. Seery and K. Adamson, A portable software tool for parallel systems development, <I>Proceedings of Twelfth</I> <I>IASTED International Conference on Applied Informatics,</I> 25-27 May, 1994, Annecy, pp. 310-313, 1994.</P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U>, J. Halligan, Adamson, K., D. Gleeson, M. Klima and S. McKenna-Lawlor, A Software Tool for Investigating Optical Signal Processing, <I>Proceedings of Twelfth</I> <I>IASTED International Conference on Applied Informatics,</I> 25-27 May, 1994, Annecy, pp. 210-213, 1994.</P>
+<P ALIGN="JUSTIFY">Adamson, K. and <U>J. G. Keating</U>, DIME - Distributed Interactive Medical Environment, <I>Proceedings of Twelfth</I> <I>IASTED International Conference on Applied Informatics</I>, 25-27 May, 1994, Annecy, pp. 164-166, 1994. </P>
+<P ALIGN="JUSTIFY">Adamson, K. A., R. I. O'Tiarnaigh, <U>J. G. Keating</U> and F. Owens, Parallelism in Speech Synthesis, <I>Proceedings of Twelfth</I> <I>IASTED International Conference on Applied Informatics</I>, 25-27 May, 1994, Annecy, pp. 224-227, 1994.</P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U> and P. Cashman, Some results concerning the use of Hopfield Networks to solve the N-Queens Problem, In G. Orchard (Ed.) <I>Neural Computing: Research and Applications II</I>, Irish Neural Networks Association, Belfast, pp. 61-68, 1994.</P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U> and D. Noonan, The structure and performance of trained Boolean networks. In G. Orchard (Ed.) <I>Neural Computing: Research and Applications II</I>, Irish Neural Networks Association, Belfast, pp. 79-86, 1994.</P>
+<I><P>Conference Articles based on abstract review</P>
+</I><P ALIGN="JUSTIFY">Z.Javadpour and <U>J.G.Keating</U>, An Acousto-Optical implementation of the Generalised Hough Transform, Institute of Physics Acousto-optic Components and Techniques 1999, London, UK., 12 May 1999.</P>
+<P ALIGN="JUSTIFY">Z.Javadpour, <U>J.G.Keating</U>, L. Moulinier, C. N. Pannell, Fundamental limits on Acousto-Optical implementation of artificial neural networks, Institute of Physics Acousto-optic Components and Techniques 1999, London, UK., 12 May 1999.</P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">L. Moulinier, <U>J.G.Keating</U>, Z.Javadpour, M. Draper, C. N. Pannell, On the design of matrix-vector multipliers using acousto-optic cells, Institute of Physics Acousto-optic Components and Techniques 1999, London, UK., 12 May 1999.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour, T.Naughton, <U>J.G.Keating</U>, J.Rott, M.Klima, "A Reconfigurable Acousto-optical Hough Transform", Institute of Physics Acousto-optic Components and Techniques , London, UK., 7 May 1997.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour, T. Naughton, <U>J. Keating</U>, M. Kl&iacute;ma and J. Rott, "Experimental model of an implementation of an optical Hough transform", Institute of Physics Acousto-optic Components and Techniques 1997, London, UK, May 1997.</P>
+<P ALIGN="JUSTIFY">T. Naughton, <U>J. Keating</U>, M. Kl&iacute;ma, J. Rott and D. Gleeson, "Development of a reconfigurable acousto-optic computing platform to train large-scale neural networks", Institute of Physics Acousto-optic Components and Techniques 1997, London, UK, May 1997.</P>
+<I><P>Books and Book Chapters</P>
+</I><U><P ALIGN="JUSTIFY">J. G. Keating</U> <I>(Editor)</I> Neural Computing and Applications (III): Proceedings of the Fifth Irish Neural Networks Conference, Maynooth College, 1995.</P>
+<I><P>Other Articles</P>
+</I><U><P ALIGN="JUSTIFY">Keating, J. G.</U> Design your own Graphical User Interface (Part I) <I>Program Now</I>, October, 29, 1991. </P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U> Design your own Graphical User Interface (Part II) <I>Program Now</I>, December, 47, 1991. </P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U> Design your own Graphical User Interface (Part III) <I>Program Now</I>, April, 68, 1992. </P>
+<U><P ALIGN="JUSTIFY">Keating, J. G.</U> Design your own Graphical User Interface (Part IV) <I>Program Now</I>, August, 58, 1992.</P>
+<P>&nbsp;</P>
+<B><FONT SIZE=4><P>INVITED PRESENTATIONS</P>
+</B></FONT><P>&nbsp;</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, An introduction to<I> </I>Interaction mechanisms and using the World Wide Web, Regional Technical College, Carlow, 1996.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Interaction mechanisms and Human Computer Interaction using the World Wide Web, Irish Computer Society, 1996.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Wood Quality Estimation using Neural Networks, Neural Computing Application Forum NCAF Symposium, Robinson College, Cambridge University, UK, 1995.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Solving the Correspodance Problem using Artificial Neural Networks and Colour Information, Neural Computing Application Forum, NCAF/SIENNA Meeting, University College Dublin, 1995.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Artificial Neural Networks: Concepts, Applications and Implementations, University of Ulster, Jordanstown, Department of Informatics Seminar Series, 1994. </P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Signal Processing, Physiological Modelling and Transputers, Technical University of Prague, Czech Republic, Department of Electrical and Electronic Engineering Special Seminar, 1994. </P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Artificial Neural Networks with Binary Weights, Technical University of Prague, Czech Republic, Department of Electrical and Electronic Engineering Special Seminar, 1994. </P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Artificial Neural Network: Basic Concepts and Applications, Regional Technical College, Carlow, Department of Physics, Mathematics and Computer Science Seminar Series, 1993.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Artificial Neural Networks, Royal Dublin Society Science and Arts Week Royal Dublin Society, 1993.</P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">RECENT TECHNICAL REPORTS</P>
+</B></FONT><P ALIGN="JUSTIFY">The following reports derive from a European Union (ESPRIT) funded project. Some of these reports are currently being re-written for submission to refereed journals:</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, ROPE Management Report (12 Months), <I>ESPRIT (LTR Proposal No. 21920) Technical Report</I>, 1999.</P>
+<P ALIGN="JUSTIFY">P. Rusznyak, I. Horvath, <U>J. G. Keating</U> and T. J. Naughton, Design and Fabrication of Control Instruments, <I>ESPRIT (LTR Proposal No. 21920) Technical Report</I>, 1999.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour, T. J. Naughton and <U>J. G. Keating</U>, Results of Familiarization and Parameter Estimation Experiments, <I>ESPRIT (LTR Proposal No. 21920) Technical Report</I>, 1999.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour and <U>J. G. Keating</U>, Projection of Anticipated Performance, <I>ESPRIT (LTR Proposal No. 21920) Technical Report</I>, 1999.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U> and C. N. Pannell, Project OSP Software Specification, <I>ESPRIT (LTR Proposal No. 21920) Technical Report</I>, 1999.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour and <U>J. G. Keating</U>, Results of Selection and Benchmarking, <I>ESPRIT (LTR Proposal No. 21920) Technical Report</I>, 1998.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, ROPE Management Report (6 Months), <I>ESPRIT (LTR Proposal No. 21920) Technical Report</I>, 1998.</P>
+<P>&nbsp;</P>
+<B><FONT SIZE=4><P>UNPUBLISHED RESEARCH</P>
+</B></FONT><P>&nbsp;</P>
+<P ALIGN="JUSTIFY">A. Dowling and <U>J. G. Keating</U>, A proxy-based security architecture for Internet applications, <I>Information Processing and Management</I>, <I>(Submitted)</I>, 2000.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Optical Information Processing, Invited Paper <I>for Maynooth University Record (Special Edition)</I>, <I>(in preparation)</I>, 15 March 2000.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, T. J. Naughton, P. Rusznyak and I. Horvath, , Design and fabrication of control instruments for an acousto-optic matrix-vector processor, <I>Applied Optics</I>, <I>(in preparation)</I>, 1999.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, P. Gaughran, A. Shortt, Z. Javadpour, C. N. Pannell and L. Moulinier, Local update neural network algorithms suitable for noisy optical implementation, <I>Optical Engineering</I>, <I>(in preparation)</I>, 2000.</P>
+<P ALIGN="JUSTIFY">P. Gaughran, Z. Javadpour, <U>J. G. Keating</U>, Optical implementations of neighbourhood operations for image processing, <I>Optical Engineering</I>, <I>(in preparation)</I>, 2000.</P>
+<P ALIGN="JUSTIFY">Z. Javadpour, F. Feeney and <U>J. G. Keating</U>, A semi-empirical model of knot structure in the sawn logs of Irish Sitka Spruce, <I>International Journal of Modelling and Simulation</I>, <I>(in preparation)</I>, 2000.</P>
+<P ALIGN="JUSTIFY">P. Keane and <U>J. G. Keating</U>, The influence of Cognitive loading on the effectiveness of advertising on the Internet, <I>Interacting with Computers</I>, <I>(in preparation)</I>, 2000.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, An online obfuscator for mobile Internet code, <I>World Wide Web</I>, <I>(in preparation),</I> 2000.</P>
+<U><P ALIGN="JUSTIFY">J. G. Keating</U>, Design and implementation of portable web applications code, <I>World Wide Web</I>, <I>(in preparation),</I> 2000.</P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P>COLLABORATING INSTITUTIONS</P>
+
+<UL>
+</B></FONT><P ALIGN="JUSTIFY"><LI>Applied Optics Group, The University, Canterbury, Kent, United Kingdom.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Isle Optics Ltd., Brewers Gate, Taunton, United Kingdom.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Department of Engineering, Technical University of Prague, Czech Republic.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Department of Computer Science, Queens University, Belfast, Northern Ireland.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Faculty of Informatics, University of Ulster, Jordanstown, Northern Ireland.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Institute of Technology, Tallaght, Co. Dublin, Ireland.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Institute of Technology, Carlow, Co. Carlow, Ireland.</LI></P></UL>
+
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">RESEARCH AND CONTRACT FUNDING</P>
+</B></FONT><P ALIGN="JUSTIFY">I have been the principal investigator, and/or co-ordinator for the following research grants:</P>
+
+<UL>
+<I><P ALIGN="JUSTIFY"><LI>Centre for Cross-Border Studies</I>: Research Contract (£1,000) to support research into re-development of B4Ucall.com Public Information Server.</LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Sun Microsystems Strategic Software Development Centre in Dublin, 2001.</I>Central to the operation of this project and facility is a Sun E450 server kindly donated by Sun.</LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Enterprise Ireland Basic Research grants Scheme 2000</I>: Research grant (£34,500) to support research into Chaos-Based System Identification and Pattern Recognition, with D. Heffernan (Principle Investigator, NUIM) and R. Shorten (NUIM) (2000-2003).</LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Centre for Cross-Border Studies</I>: Research grant (£30,855) to support research into The Evolution of Telecom Technologies: Current Trends and Near-Future Implications, with F. Murtagh (QUB) (2000-2001).</LI></P>
+<I><P ALIGN="JUSTIFY"><LI>ESPRIT (Long Term Research Proposal No. 21920):</I> Research grant (£156,000) to support research into Reconfigurable Optical Processing for Training and Execution of Large Scale Neural Networks with University of Kent (C. Pannell), and Isle Optics (M. Draper) (1997-1999). </LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Higher Education-Industry Co-operation</I>: Research grant (£80,000) to support Optical Computing Research to facilitate studies in Optical Implementations of Neural Networks (1995-1997). </LI></P>
+<I><P ALIGN="JUSTIFY"><LI>EPSRC (Grant Number GR/K21870):</I> Visiting Fellowship (£800) to Advanced Computing Research Centre, University of Bristol to investigate the design of an ASIC chip using binary valued weights (1994-1996).</LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Industrial Development Authority:</I> Research grant (£19,500) to support Software Tools Research to facilitate studies in 4GLs for GUIs and associated Tools (1993-1995).</LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Siemens/Nixdorf Ireland Ltd.:</I> Research Contract (£25,000) to support Software Tools, in particular, studies in Tool Integration and Inter-Tool Communication (1993-1995). </LI></P>
+<I><P ALIGN="JUSTIFY"><LI>Royal Irish Academy/Royal Society</I>: Bursary (£1,200) to fund scientific visit to University of Edinburgh to engage in research in Artificial Neural Networks, 1993.</LI></P></UL>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">Ph.D. THESIS SUPERVISION </P>
+
+<UL>
+</B></FONT><P ALIGN="JUSTIFY"><LI>Optical neural networks for pattern recognition, <I>Zohreh Javadpour</I>, 1999.</LI></P></UL>
+
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">M.Sc. THESIS SUPERVISION </P>
+
+<UL>
+</B></FONT><P ALIGN="JUSTIFY"><LI>A proxy-based security architecture for Internet applications, <I>Andrew Dowling</I>, 1999.</LI></P>
+<P ALIGN="JUSTIFY"><LI>An oscillatory artificial neural network model of the semi-circular canal hair cells<I>, Peter Edward Wyatt</I>, 1998.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Examining the effectiveness of advertising on the Internet<I>, Phelim Keane</I>. 1998.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Kensington: The development of a computer game, <I>Dan Kelly</I>, 1997.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Mentor: an Internet-based tutoring system supporting computer mediated communication, <I>Sean McMenamy</I>, 1998.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Optical Co-Processors, <I>Shauna OBoyle</I>, 1996.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Modelling knots on the sawn logs of Irish Sitka Spruce, <I>Zohreh Javadpour</I>, 1996.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Estimating the quality of timber using artificial neural networks, <I>Dara J. Hughes</I>, 1995.</LI></P>
+<P ALIGN="JUSTIFY"><LI>SIFRAME: An approach to tool integration and inter-tool communication in a concurrent engineering environment, <I>Caroline Murphy</I>, 1995.</LI></P>
+<P ALIGN="JUSTIFY"><LI>A method of implementing physiological models using NXLib, <I>Ru&aacute;n I. O'Tiarnaigh</I>, 1995.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Prusila - a rapid prototyping language for multiple graphical user interface development<I>, John H. Seery</I>, 1995.</LI></P></UL>
+
+<B><P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<FONT SIZE=4><P ALIGN="JUSTIFY">CURRENT Ph.D. PROJECT SUPERVISION</P>
+
+<UL>
+</B></FONT><P ALIGN="JUSTIFY"><LI>General-purpose acousto-optic connectionist processors, <I>Thomas Naughton</I>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Noise limited performance of acousto-optical implementations of artificial neural networks, <I>Alison Shortt</I>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Reconfigurable acousto-optical implementations of connectionist models of neighbourhood operations, <I>Peter Gaughran</I>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Cognitive Modelling and the effectiveness of advertising on the Internet<I>, Phelim Keane</I>. </LI></P></UL>
+
+<B><P ALIGN="JUSTIFY">&nbsp;</P>
+<FONT SIZE=4><P ALIGN="JUSTIFY">REVIEWING AND PROGRAMME COMMITTEES</P>
+</B></FONT>
+<P ALIGN="JUSTIFY">Reviewer for <I>AICS </I>Journal, 2001.</P>
+<P ALIGN="JUSTIFY">Reviewer for <I>AICS </I>Journal, 2000.</P>
+<P ALIGN="JUSTIFY">Reviewer for <I>Journal of Software and Systems Journal</I>, 2000.</P>
+<P ALIGN="JUSTIFY">Tutorial Reviewer for <I>ACM SIGCHI CHI2000 </I>(Internet/HCI Panel), Amsterdam, 2000.</P>
+<P ALIGN="JUSTIFY">Reviewer and Member of International Program Committee for <I>NN2000</I>, Pittsburgh, 2000.</P>
+<P ALIGN="JUSTIFY">Reviewer for <I>Image and Vision Computing </I>Journal, 1999.</P>
+<P ALIGN="JUSTIFY">Reviewer for <I>Symantec Best Thesis in Localisation Award</I>, LRC, UCD, 1999.</P>
+<P ALIGN="JUSTIFY">Reviewer and Member of Program Committee for <I>OESI-IMVIP Joint Conference</I>, 1998</P>
+<P ALIGN="JUSTIFY">Reviewer for <I>Neural Computing and Applications </I>Journal, 1998.</P>
+<P ALIGN="JUSTIFY">Reviewer (and Conference Chair) for <I>Fifth Irish Neural Networks Conference</I>, 1995.</P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><FONT SIZE=4><P ALIGN="JUSTIFY">PROFESSIONAL ASSOCIATION MEMBERSHIP</P>
+</B></FONT><P ALIGN="JUSTIFY">I am a Member of the Institute of Physics, and a Chartered Physicist.</P>
+<P ALIGN="JUSTIFY">I am a Member of SPIE: The International Association for Optical Engineering.</P>
+<P ALIGN="JUSTIFY">I am a Member of OSA: The Optical Society of America.</P></BODY>
+</HTML>

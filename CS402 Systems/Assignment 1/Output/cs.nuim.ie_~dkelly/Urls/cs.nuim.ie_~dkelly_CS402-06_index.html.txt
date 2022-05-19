@@ -1,0 +1,110 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./index_files/filelist.xml">
+<title>CS402 Parallel and Distributed Systems</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>dkelly</o:Author>
+  <o:LastAuthor>dkelly</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>22</o:TotalTime>
+  <o:Created>2006-05-03T11:39:00Z</o:Created>
+  <o:LastSaved>2006-05-03T11:39:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>142</o:Words>
+  <o:Characters>812</o:Characters>
+  <o:Company>NUI Maynooth</o:Company>
+  <o:Lines>6</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>997</o:CharactersWithSpaces>
+  <o:Version>9.4402</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-GB link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal><b><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>CS402
+Parallel and Distributed Systems<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Dermot
+Kelly<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>email:
+dkelly@cs.nuim.ie<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><b>Lecture Notes<o:p></o:p></b></p>
+
+<p class=MsoNormal><a href="Introduction.htm">Introduction</a>, <a
+href="Hardware%20Models.htm">Hardware Models</a>, <a
+href="Software%20Architectures.htm">Software Architectures</a>, </p>
+
+<p class=MsoNormal><a href="Processes%20&amp;%20Threads.htm">Programming Models
+- Processes &amp; Threads, PThreads, Java Threads</a>, </p>
+
+<p class=MsoNormal><a href="Message%20Passing%201.htm">Programming Models 
+Message Passing &amp; Interprocess Communication, Remote Procedure Call</a>, <a
+href="Java%20RMI.htm">Java RMI</a>, <a href="Group%20Communication.htm">Group
+Communication, Reliable, FIFO, Causal and Total Ordering Protocols</a>, <a
+href="Message%20Passing%20Interface.htm">Case Study - Message Passing Interface
+(MPI)</a>,</p>
+
+<p class=MsoNormal><a href="Process%20Load%20Distribution.htm">Load
+Distribution, Migration, Scheduling Algorithms</a>, <br>
+<a href="Distributed%20File%20Systems.htm">Distributed File Systems</a>, <br>
+<a href="Transaction%20Systems.htm">Transaction Systems</a>,</p>
+
+<p class=MsoNormal><a href="Fault%20Tolerant%20Services.htm">Fault Tolerant
+Services</a></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>

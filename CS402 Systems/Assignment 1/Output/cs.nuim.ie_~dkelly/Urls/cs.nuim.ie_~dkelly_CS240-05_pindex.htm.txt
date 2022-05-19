@@ -1,0 +1,147 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./pindex_files/filelist.xml">
+<title>CS240 Operating Systems</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>dkelly</o:Author>
+  <o:LastAuthor>dkelly</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>10</o:TotalTime>
+  <o:Created>2005-12-07T14:29:00Z</o:Created>
+  <o:LastSaved>2005-12-07T14:29:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>179</o:Words>
+  <o:Characters>1023</o:Characters>
+  <o:Company>NUI Maynooth</o:Company>
+  <o:Lines>8</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1256</o:CharactersWithSpaces>
+  <o:Version>9.4402</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-GB link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>CS240 Operating Systems<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Course Lecturer  Dermot
+Kelly<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>email: <a
+href="mailto:dkelly@cs.nuim.ie">dkelly@cs.nuim.ie</a><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>Room 2.20 Callan Building</span></b><span
+style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:18.0pt;mso-bidi-font-size:12.0pt'>PRACTICALS</span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical%201.htm">Practical 1</a>  Introduction to the Linux
+Environment, Basic Utilities &amp; Editing, Pipes &amp; Input/Output
+redirection<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical%202.htm">Practical 2</a>  The Shell, Processes, Background
+Processing &amp; Signals, File Access Permissions, Executable Shell Scripts<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical%203.htm">Practical 3</a>  Basic I/O Programming In Unix, Read
+and Write, Open and Close<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical%204.htm">Practical 4</a>  Process Creation and Pipe
+Communication<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical%205.htm">Practical 5</a>  Named Pipes and Socket Pairs<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical%206.htm">Practical 6</a>  Java Socket Communication and Remote
+Method Invocation<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical%207.htm">Practical 7</a>  Concurrent Programming with Java 
+Dining Philosophers Problem<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical%208.htm">Practical 8</a>  Concurrent Programming with Java 
+Readers/Writers Problem<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical%209.htm">Practical 9</a>  Distributed Multithreaded Date
+Server<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt'><a
+href="Practical10.htm">Practical 10</a>  Shared Memory in Unix</span></p>
+
+</div>
+
+</body>
+
+</html>

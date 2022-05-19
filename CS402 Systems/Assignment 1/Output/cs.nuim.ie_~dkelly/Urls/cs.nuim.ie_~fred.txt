@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Not Found</title>
+</head>
+<body>
+<h1>Not Found</h1>
+<p>We cannot find the page you requested.</p>
+
+<hr>
+<address>Maynooth University Computer Science Department</address>
+</body>
+</html>
+

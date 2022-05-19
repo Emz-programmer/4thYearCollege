@@ -1,0 +1,253 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Dermot Kelly">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.01 [en] (Win95; I) [Netscape]">
+</HEAD>
+<BODY>
+<A NAME="index"></A>
+<CENTER>
+<H2>
+<B>CS240 Operating Systems Practicals<BR>
+<A HREF="http://www.cs.may.ie/~dkelly">Dermot Kelly</A></B></H2></CENTER>
+<B>Contents</B>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/pindex.html#intro">Introduction
+to Unix</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/pindex.html#commands">Unix
+Commands</A> and <A HREF="http://www.cs.may.ie/~dkelly/CS240/pindex.html#editing">Editing</A>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P1.html">Practical 1 - Unix
+Fundamentals</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P1.html#pipes_redirection">Shell
+Pipes and I/O Redirection</A>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P2.html">Practical 2 - Using
+Unix</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P2.html#shell">The Shell</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P2.html#shell_script">Shell Scripts</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P2.html#background_process">Background
+Processes</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P2.html#shell_arguments">Command
+Arguments</A>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P3.html">Practical 3 - Shell
+Programming and more Unix Utilities</A>,<A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P3.html#Structured">
+Structured Commands</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P3.html#Control">Control
+Constructs</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P3.html#shellvars">Shell
+Variables</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P3.html#utilities">Unix
+Utilities</A>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P4.html">Practical 4 - Basic
+I/O Programming in Unix</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P4.html#read">Read
+and Write</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P4.html#open">Open
+and Close</A>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P5.html">Practical 5 - Interprocess
+Communication in Unix</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P5.html#pipes">Pipes</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P5.html#processes">Forking Processes</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P5.html#closing">Closing Pipes</A>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P6.html">Practical 6 - Interprocess
+Communication in Unix</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P6.html#socketpair">Socket
+Pairs</A>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P7.html">Practical 7 - Interprocess
+Communication in Unix</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P7.html">Named
+Pipes</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P7.html#dup">Managing
+Descriptors</A>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P8.html">Practical 8 - Shared
+Memory in Unix</A>
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS240/OS_P9.html">Practical 9 - Concurrent
+Programming in Java</A>
+
+<P><B>References</B>
+<UL>
+<LI>
+Unix and C, A Tutorial Introduction, Philip Cornes, Chapman-Hall.</LI>
+
+<LI>
+The Magic Garden Explained, Goodheart and Cox, Prentice-Hall.</LI>
+
+<LI>
+The Design of the Unix Operating System, Maurice Bach, Prentice-Hall.</LI>
+</UL>
+
+<HR><A NAME="intro"></A>
+<CENTER><B>Introduction to Unix</B></CENTER>
+
+
+<P>The operating systems course practicals involve <B>learning aspects
+of the Unix operating system</B>. This includes becoming familiar with
+Unix commands and utilities, writing command scripts for the shell and
+some C programming. The practicals focus on the Unix process model and
+interprocess communication mechanisms. Access to these mechanisms both
+at the shell level and from within a running program are examined. You
+should keep the practical handouts for reference as each practical builds
+on previous work. Always read the handout and carry out the instructions
+contained therein to accumulate credits for each practical. The University
+Library contains many texts on Unix which provide useful supplementary
+reading.
+
+<P>The laboratory Pentium based workstations are capable of booting under
+Unix or Windows NT. <B>You must ensure that the workstation is running
+the Unix operating system before you can proceed</B>.
+
+<P>Access to the system requires the entry of a username and password.
+On your first login there may be no password or the password may be something
+obvious. Therefore, you should change the password immediately by typing
+<B><FONT SIZE=+1>yppasswd</FONT></B> at the shell prompt when you have
+logged in.
+
+<P><B>IMPORTANT</B>: Before you leave, you must disconnect your current
+session as other users may damage your files if you remain logged in and
+they should use the workstation after you. To disconnect your session enter
+<B><FONT SIZE=+1>exit </FONT></B>or <B><FONT SIZE=+1>logout </FONT></B>at
+the shell prompt.
+
+<P>For the duration of this practical you should try to become familiar
+with this environment and learn the usage of some of the more common Unix
+commands listed on this handout. During the course of the practicals, you
+will be writing some code and so some familiarity with the vi editor or
+texteditor will be necessary. You should practice creating and manipulating
+some files using the editor of your choice.
+
+<P>To begin with, <B>create a directory called CS240</B> for this course
+and make it your current directory.
+<BR>&nbsp;<A NAME="commands"></A>
+
+<P><B>Unix Commands</B> - (Note: Commands are case sensitive)
+
+<P><B><I>General Utility Commands</I></B>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>cd dirname&nbsp;&nbsp;&nbsp;&nbsp;
+Change directory to the directory dirname in the current directory</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Print date and time</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>mailtool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Read or send email</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>man&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Print entries from the on-line manual(ASCII type terminal browsing tool)</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>answerbook&nbsp;&nbsp;&nbsp;&nbsp;
+Window based browsing tool for online information</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>yppasswd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Change your login password</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>pwd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Print the current path and directory</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>who&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+List the current users of the system</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>lp filename&nbsp;&nbsp;&nbsp;
+Print filename on the laboratory printer</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>vi filename&nbsp;&nbsp;&nbsp;
+Edit of create a file called filename</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>more filename&nbsp;
+Browse or page through a filename</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>cat filename&nbsp;&nbsp;
+Read a text file and write it to standard output</FONT></FONT>
+
+<P><B><I>File Management</I></B>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>cp filename1 filename2
+Copy filename1 to filename2</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>ls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+List the files in the current directory</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>mkdir dirname&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Create a new directory called dirname within the</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+current directory</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>mv filename1 filename2
+Move or rename filename1 to filename2</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>rm filename&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Delete filename</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>rmdir dirname&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Delete directory dirname</FONT></FONT>
+<BR>&nbsp;
+
+<P><B><I>Process Management</I></B>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>kill processid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Send a signal to a process to indicate it should terminate</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>ps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Display list of processes and their status</FONT></FONT>
+<BR><FONT FACE="Courier New,Courier"><FONT SIZE=-1>time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Time a process execution</FONT></FONT>
+
+<P>To find out more about the option settings and parameters to these commands,
+make use of the online manual facility. For example, try to find out what
+<B><FONT SIZE=+1>ls -l</FONT></B> does by entering the command <B><FONT SIZE=+1>man
+ls</FONT></B> and reading the explanation of parameters allowed to ls.
+
+<P>Try <B><FONT SIZE=+1>ps -e</FONT></B> and then read the manual to explain
+what the '-e' flag did. Most of the utilities have optional flags which
+are indicated by various letters following the '-' character. More than
+one option may be specified, e.g. <B><FONT SIZE=+1>ps -el</FONT></B>
+
+<P>From the process listing of the last command, pick a process id which
+has 'sh' opposite it.
+<BR>Using the processid, type <B><FONT SIZE=+1>kill processid</FONT></B>
+<BR>What happened?
+<BR>&nbsp;<A NAME="editing"></A>
+
+<P><B>Editing</B>
+
+<P>There are two text editors available for creating and editing files.
+Textedit has a graphical user interface and is probably easier to use.
+Type <B><FONT SIZE=+1>textedit </FONT></B>at the shell prompt. A window
+appears in which you can create a new file. To quit this program, move
+the cursor to the box at the top left of this window, hold down the right
+mouse button over the box and select the 'quit' option.
+
+<P>The other editor is a versatile character oriented editor known as vi.
+To use the vi editor, type vi at the shell prompt. The vi editor operates
+in one of two modes. In <I>command </I>mode, it accepts commands, for example
+to save the file or delete lines or to move the cursor to a particular
+part of the file. In <I>text </I>mode, it accepts character data to be
+entered into the file at the cursor position. The editor begins in command
+mode. To enter text mode type <B>i </B>or <B>a</B>. <B>i</B> causes characters
+to be inserted at the cursor position, while <B>a</B> causes characters
+to be inserted after the cursor position. To get out of text mode and back
+to command mode press the ESC key. You will have to do this to save your
+file and exit the editor.
+
+<P>Note: The arrow keys can be used to position the cursor when in command
+mode. Most commands can be preceeded by a number which causes the command
+to be carried out that many times.
+
+<P><B>vi commands</B>
+<BR><FONT FACE="Courier New,Courier">i&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Enter text mode, at cursor</FONT>
+<BR><FONT FACE="Courier New,Courier">a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Enter text mode, after cursor</FONT>
+<BR><FONT FACE="Courier New,Courier">l&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Move cursor right one character</FONT>
+<BR><FONT FACE="Courier New,Courier">h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Move cursor left one character</FONT>
+<BR><FONT FACE="Courier New,Courier">j&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Move cursor down one line</FONT>
+<BR><FONT FACE="Courier New,Courier">99j&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Move the cursor down 99 lines</FONT>
+<BR><FONT FACE="Courier New,Courier">k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Move cursor up one line</FONT>
+<BR><FONT FACE="Courier New,Courier">w&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Move cursor right one word</FONT>
+<BR><FONT FACE="Courier New,Courier">b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Move cursor left one word</FONT>
+<BR><FONT FACE="Courier New,Courier">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Move cursor to end of line</FONT>
+<BR><FONT FACE="Courier New,Courier">^&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Move cursor to start of line</FONT>
+<BR><FONT FACE="Courier New,Courier">x&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Delete character at cursor</FONT>
+<BR><FONT FACE="Courier New,Courier">dd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Delete current line at cursor</FONT>
+<BR><FONT FACE="Courier New,Courier">7dd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Delete 7 lines from cursor position</FONT>
+<BR><FONT FACE="Courier New,Courier">:r filename&nbsp;&nbsp; Insert contents
+of filename at cursor position</FONT>
+<BR><FONT FACE="Courier New,Courier">:q!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Exit from editor without saving changes</FONT>
+<BR><FONT FACE="Courier New,Courier">:wq&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Exit from editor saving changes</FONT>
+<BR>&nbsp;
+<BR>&nbsp;
+<BR>&nbsp;
+<CENTER>[<A HREF="http://www.cs.may.ie/~dkelly/CS240/pindex.html#index">Practical
+Index</A>]</CENTER>
+
+</BODY>
+</HTML>

@@ -1,0 +1,925 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<!--[if IE]><![endif]-->
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="preconnect" href="//fonts.gstatic.com" crossorigin="" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="preconnect" href="//fonts.googleapis.com" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta name="description" content="Welcome to Computer Science at Maynooth University. The Department provides a wide range of undergraduate and postgraduate degree courses in Computer Science, Software Engineering, Multimedia and Mobile Systems along with an extensive research programme leading to M.Sc. and Ph.D. degrees in many exciting areas." />
+<meta name="keywords" content="Department of Computer Science, Software Engineering, Multimedia and Mobile Systems, Multimedia and Mobile Systems, computer hardware, operating systems, computer applications, computational theory, Roinn na Ríomheolaíochta" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.maynoothuniversity.ie/computer-science" />
+<link rel="shortlink" href="https://www.maynoothuniversity.ie/node/188" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.maynoothuniversity.ie/computer-science" />
+<meta name="twitter:title" content="Computer Science" />
+<meta name="twitter:description" content="Welcome to Computer Science at Maynooth University. The Department provides a wide range of undergraduate and postgraduate degree courses in Computer Science, Software Engineering, Multimedia and" />
+<title>Computer Science | Maynooth University</title>
+  <!-- Cookiebot script -->
+  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="7a531604-1b21-4f40-af8e-d4d4cc9433b7" data-blockingmode="auto" type="text/javascript"></script>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__Wm7aot7FhFNHwajlHr-qN14Gqx3uLt1TJVoLT7h0NUA__l1c8KB15YuMFPi9AGzk9nNYd4IsSBl5Yg9VvU32g66k__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css_injector/css_injector_1.css?r9nogn" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/css_injector/css_injector_2.css?r9nogn" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__5DYx5lOFP34OaTIBGAOvW5tVSCfcm81OCqORb_moAh4__gOwxdXw6d21uwL0Pb9VsRErpzY1H564BbUS0_yhHjBc__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__pCf4bQKhTzhIiU52ZxWhBqBgN2_MsZUuAFV0FKPqtZg__ccy9xV6xynCNblkTbvuYMHwV9bVXJU2P_l0ifaoroRc__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__wlwfz6kvW523RxOOCL8oOvDrOBLZckQPsqpWiS7rE70__Mm3MhjBotpwjktMtmxsE_oVFwPFRem4qMw9f2oAl3SI__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<!--<![endif]-->
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__Gy4qtCwAe4cMBQPFrybeYEUAMCSNRsFCrptsZjl20kQ__wXUjam5J073_jSubkPwfQdUFpDOW6V9iUuJQG2xjf3Q__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__SBHwlufy_ibZpp921mXH-DBLLVNqCr08h0yPxM2WggQ__cwx-y8V8vcV6MGU5F4PiHsaguMlkGVxqCGKk-83ckuE__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.css" media="all" />
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__0tgXZJDUfv4rjr0THa_kG4HQUK4AanS4Q7KTzI-rsnk__yqFCX5XKd7XSpnvIMLDUw4lcwO3s_6kyak0sa8BfMNU__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"nuim","theme_token":"s5HeXBwL0XWCxwRlDuYgnjGNvUwSWOoXvozbb-oGO74","jquery_version":"1.9","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib_patched\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/css\/default.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/cookiecuttr.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/select2.min.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_2.css":1,"public:\/\/css_injector\/css_injector_4.css":1,"public:\/\/css_injector\/css_injector_6.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/extramq.css":1,"ie::desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default.css":1,"ie::desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default-desktop.css":1,"ie::desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/grid\/default\/desktop\/default-desktop-12.css":1,"desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default.css":1,"desktop::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default-desktop.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/grid\/default\/desktop\/default-desktop-12.css":1,"tablet::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default.css":1,"tablet::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default-tablet.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/grid\/default\/tablet\/default-tablet-12.css":1,"mobile::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default.css":1,"mobile::sites\/all\/themes\/nuim_themes\/nuim\/css\/nuim-default-mobile.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/grid\/default\/mobile\/default-mobile-12.css":1,"sites\/all\/themes\/nuim_themes\/nuim\/css\/iefix.css":1},"js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/contrib_patched\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"misc\/progress.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery-migrate-1.2.1.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/stacktable.min.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.easytabs.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.fitvids.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.validate.min.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/nuim.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.cookie.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/featherlight.min.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/course-finder.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/jquery.mixitup.js":1,"sites\/all\/themes\/nuim_themes\/nuim\/js\/select2.full.min.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":false,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"better_exposed_filters":{"views":{"single_header_images":{"displays":{"block":{"filters":[]}}},"carousels":{"displays":{"block_1":{"filters":[]},"block_3":{"filters":[]}}},"organisational_unit_location_maps":{"displays":{"promo_panel":{"filters":[]},"promo_panel_1":{"filters":[]},"promo_panel_2":{"filters":[]},"block_3":{"filters":[]},"block_4":{"filters":[]},"block_12":{"filters":[]}}},"useful_links_org_units":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}},"news_events_blocks":{"displays":{"block_8":{"filters":[]},"block_1":{"filters":[]}}}}},"flexslider":{"optionsets":{"default":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":false,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"slide","slideshow":true,"slideshowSpeed":"7000","directionNav":true,"controlNav":false,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"default"}},"urlIsAjaxTrusted":{"\/computer-science":true},"colorbox_node":{"width":"600px","height":"600px"}});
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__vK_4cu168NZ-CUsjdztseWuOmutCchvm379IZEcRlhs__2gIEawe1LRQ_8yuoRIKyVIdgq6ge7utpSQSkiq7J2aM__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__YS__lld3JyerB893LYnyiyMeQr-ISw6v7smCKRzXjSA__5wZg17QWF2vCkLDgENJInYd5gP9RSt1N-GsRVVen-b0__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.js"></script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript">stLight.options({publisher: "5eaa084d-c8e7-4a3c-90cf-84b18bf22d27", onhover: false, doNotCopy:true});</script>
+<!--Start Monitoring Script-->
+  <script type="text/javascript">
+    var rumMOKey='7c703e24feb5c097a89694f805401fec';
+    (function(){
+      if(window.performance && window.performance.timing && window.performance.navigation) {
+        var site24x7_rum_beacon=document.createElement('script');
+        site24x7_rum_beacon.setAttribute('src','//static.site24x7rum.com/js/rum-beacon-min.js');
+        document.scripts[0].appendChild(site24x7_rum_beacon);
+      }
+    })(window)
+  </script>
+<!--End of Monitoring Script-->
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-188 node-type-organisational-unit context-computer-science three-columns">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHHZJZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WHHZJZ');</script>
+<!-- End Google Tag Manager -->
+		      <header id="section-header" class="section section-header">
+  <div id="zone-header-devices-wrapper" class="bg-ffffff not-desktop">  
+  <div id="zone-header-devices" class="clearfix container-12">
+    <div class="grid-8" id="region-logo-devices">
+  <div class="region-inner cf">
+    <div class="block odd cf b1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="logo-img"><a href="/" id="logo" title="Return to the Maynooth University home page"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png" alt="Maynooth University" /></a></div>	</div>  
+  </div>
+
+</div>  </div>
+</div><div class="grid-4" id="region-buttons-devices">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 covid-button">
+  <div class="block-inner cf">
+            	<div class="content">
+      <a class="covid-button" href="/coronavirus">COVID-19 Information</a>	</div>  
+  </div>
+
+</div><div class="block even cf b2 buttons-devices">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu">
+<li><a class="search-trigger" href="#"" id="search-toggle-2"><span>Search</span></a></li>
+<li><a href="#" id="expand-utility" class="slidetoggle"><span></span></a></li>
+</ul>	</div>  
+  </div>
+
+</div>  </div>
+</div>  </div>
+</div><div id="zone-header-wrapper" class="bg-ffffff only-desktop ensure-desktop">  
+  <div id="zone-header" class="clearfix container-12">
+    <div class="grid-4 only-desktop" id="region-logo">
+  <div class="region-inner cf">
+    <div class="block odd cf b1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="logo-img"><a href="/" id="logo" title="Return to the Maynooth University home page"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/all/themes/nuim_themes/nuim/logo_old_2.png" alt="Maynooth University" /></a></div>	</div>  
+  </div>
+
+</div>  </div>
+</div><div class="grid-8" id="region-primary">
+  <div class="region-inner cf">
+    
+<nav  class="block odd cf b1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf about-us"><a href="/about-us">About Us</a></li>
+<li  class="leaf study-at-maynooth"><a href="/study-maynooth">Study at Maynooth</a></li>
+<li  class="leaf campus-life"><a href="/campus-life">Campus Life</a></li>
+<li  class="leaf departments"><a href="/departments">Departments</a></li>
+<li  class="leaf library"><a href="/library">Library</a></li>
+<li  class="leaf maynooth-access-programme"><a href="/access-office">Maynooth Access Programme</a></li>
+<li  class="leaf gaeilge-san-ollscoil"><a href="/oifig-na-gaeilge">Gaeilge san Ollscoil</a></li>
+<li  class="leaf"><span class="separator"><hr></span></li>
+<li  class="leaf a-z-directory"><a href="/az-index">A-Z Directory</a></li>
+<li  class="leaf people-finder"><a href="/people">People Finder</a></li>
+<li  class="leaf contact"><a href="/contact">Contact</a></li>
+<li  class="leaf location"><a href="/location">Location</a></li>
+<li  class="leaf vacancies"><a href="https://www.maynoothuniversity.ie/human-resources/vacancies">Vacancies</a></li>
+<li  class="leaf"><span class="separator"><hr></span></li>
+<li  class="leaf for-current-students"><a href="/current-students">For Current Students</a></li>
+<li  class="leaf for-staff"><a href="/staff">For Staff</a></li>
+<li  class="leaf for-alumni"><a href="/daro">For Alumni</a></li>
+<li  class="leaf for-visitors"><a href="https://www.maynoothuniversity.ie/campus-services/visitors">For Visitors</a></li>
+<li  class="leaf"><span class="separator"><hr></span></li>
+<li  class="last leaf support-maynooth"><a href="/daro/support">Support Maynooth</a></li>
+</ul>	</div>
+  </div>
+ 
+</nav>
+<nav  class="block even cf b2">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf about-us"><a href="/about-us">About Us</a></li>
+<li  class="leaf departments"><a href="/departments">Departments</a></li>
+<li  class="leaf a-z-index"><a href="/az-index">A-Z Index</a></li>
+<li  class="leaf people-finder"><a href="/people">People Finder</a></li>
+<li  class="leaf news-events"><a href="/news-events">News &amp; Events</a></li>
+<li  class="leaf location"><a href="/location">Location</a></li>
+<li  class="last leaf contact"><a href="/contact">Contact</a></li>
+</ul>	</div>
+  </div>
+ 
+</nav>
+<nav  class="block odd cf b3 nav">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf has-children menu-mlid-439 about-us"><a href="/about-us">About Us</a></li>
+<li  class="leaf has-children menu-mlid-1045 departments"><a href="/departments">Departments</a></li>
+<li  class="leaf menu-mlid-5959 a-z-index"><a href="/az-index">A-Z Index</a></li>
+<li  class="leaf menu-mlid-1697 people-finder"><a href="/people">People Finder</a></li>
+<li  class="leaf has-children menu-mlid-442 news-events"><a href="/news-events">News &amp; Events</a></li>
+<li  class="leaf has-children menu-mlid-443 location"><a href="/location" title="Location">Location</a></li>
+<li  class="leaf has-children menu-mlid-444 contact"><a href="/contact">Contact</a></li>
+<li  class="leaf has-children menu-mlid-3802 for-staff"><a href="/staff">For Staff</a></li>
+<li  class="leaf menu-mlid-447 for-alumni"><a href="/daro">For Alumni</a></li>
+<li  class="leaf has-children menu-mlid-3803 for-current-students"><a href="/current-students">For Current Students</a></li>
+<li  class="last leaf menu-mlid-8160 maynooth-at-20"><a href="/maynooth-university-at-20">Maynooth at 20</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav><div class="block even cf b4 header-search-icon">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="header-wrapper-search">
+  <div class="header-search">
+    <a class="search-trigger" href="#" id="search-toggle"><span>Search</span></a>
+  </div>
+</div>	</div>  
+  </div>
+
+</div><div class="block odd cf b5 mega-menu-block mega-menu-block">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="tb-megamenu tb-megamenu-menu-new-main">
+  <div class="nav-collapse">
+    <ul  class="tb-megamenu-nav nav level-0 items-4" class="tb-megamenu-nav nav level-0 items-4">
+              <li class="tb-megamenu-item level-1 mega dropdown">
+          <a href="https://www.maynoothuniversity.ie/research" class="dropdown-toggle">Research<span class="caret"></span></a>          <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+            <div class="mega-dropdown-inner">
+              <div class="tb-megamenu-row row-fluid">
+                <div data-showblocktitle="1" data-class="" data-width="7" data-hidewcol="" id="tb-megamenu-column-1" class="tb-megamenu-column span7 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <div data-type="block" data-block="bean--research-menu-header" class="tb-megamenu-block tb-block tb-megamenu-block">
+                      <div class="block-inner">
+                        <section class="block odd cf b1 research-menu-header ">
+                          <div class="block-inner cf">
+                            <h2 class="block-title">Research</h2>
+                            <div class="content">
+                                                                                          <div class="field-name-field-bean-e-body">
+                                World-class research based on a distinctive, interdisciplinary approach to the natural sciences, social sciences, engineering and technology, and the arts and humanities.                              </div>
+                                                                                          <div class="field-name-field-bean-e-link"><a href="https://www.maynoothuniversity.ie/research">Learn More</a></div>
+                                                          </div>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  data-class="" data-width="5" data-hidewcol="0" id="tb-megamenu-column-50" class="tb-megamenu-column span5 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <ul class="tb-megamenu-subnav mega-nav level-1 items-10">
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research">Research Home</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/about-us">Research and Innovation at Maynooth University</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/research-institutes">Research Institutes and Centres</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/spotlight-research">Spotlight on Research</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/research-news-events">Research News &amp; Events</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/phd-research-programmes">Postgraduate Research</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/research-themes">Research Themes</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/research-development-office">Research Development Office</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/maynoothworks">MaynoothWorks</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/research/researcher-directory">Researcher Directory</a>                        </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+              <li class="tb-megamenu-item level-1 mega dropdown">
+          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies" class="dropdown-toggle">Undergraduate<span class="caret"></span></a>          <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+            <div class="mega-dropdown-inner">
+              <div class="tb-megamenu-row row-fluid">
+                <div data-showblocktitle="1" data-class="" data-width="7" data-hidewcol="" id="tb-megamenu-column-1" class="tb-megamenu-column span7 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <div data-type="block" data-block="bean--research-menu-header" class="tb-megamenu-block tb-block tb-megamenu-block">
+                      <div class="block-inner">
+                        <section class="block odd cf b1 research-menu-header ">
+                          <div class="block-inner cf">
+                            <h2 class="block-title">Undergraduate Studies</h2>
+                            <div class="content">
+                                                                                          <div class="field-name-field-bean-e-body">
+                                Thousands of first year students join us each September to begin a level 8 degree. Join us in 2022.                              </div>
+                                                                                          <div class="field-name-field-bean-e-link"><a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies">Learn More</a></div>
+                                                          </div>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  data-class="" data-width="5" data-hidewcol="0" id="tb-megamenu-column-50" class="tb-megamenu-column span5 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <ul class="tb-megamenu-subnav mega-nav level-1 items-10">
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses">Level 8 Degrees</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/open-days">Open Days | Events</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/contact-us">Ask Us</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/information-guidance-counsellors">Guidance Counsellors</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/explore-our-campus">Visit Maynooth University</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/how-apply">How to Apply | CAO</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/maynooth-education">A Maynooth Education</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/download-prospectus-booklets">Prospectus &amp; Booklets</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/scholarships">Scholarships</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/certificates-short-courses/certificates">Certificates and Short Courses</a>                        </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+              <li class="tb-megamenu-item level-1 mega dropdown">
+          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies" class="dropdown-toggle">Postgraduate<span class="caret"></span></a>          <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+            <div class="mega-dropdown-inner">
+              <div class="tb-megamenu-row row-fluid">
+                <div data-showblocktitle="1" data-class="" data-width="7" data-hidewcol="" id="tb-megamenu-column-1" class="tb-megamenu-column span7 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <div data-type="block" data-block="bean--research-menu-header" class="tb-megamenu-block tb-block tb-megamenu-block">
+                      <div class="block-inner">
+                        <section class="block odd cf b1 research-menu-header ">
+                          <div class="block-inner cf">
+                            <h2 class="block-title">Postgraduate Studies</h2>
+                            <div class="content">
+                                                                                          <div class="field-name-field-bean-e-body">
+                                Postgraduate studies at&nbsp;Maynooth&nbsp;University is renowned for its rigorous&nbsp;programmes, supportive campus&nbsp;environment and welcoming academic&nbsp;community.                              </div>
+                                                                                          <div class="field-name-field-bean-e-link"><a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies">Learn more</a></div>
+                                                          </div>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  data-class="" data-width="5" data-hidewcol="0" id="tb-megamenu-column-50" class="tb-megamenu-column span5 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <ul class="tb-megamenu-subnav mega-nav level-1 items-10">
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/taught-programmes">Taught Master's, Diplomas and Certificates</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/phd-research-programmes">Research Programmes</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/graduate-studies/professional-skills-courses">Professional Skills Courses</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/graduate-studies/springboard-programmes">Springboard Courses</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/fees-funding-scholarships">Fees, Funding &amp; Scholarships</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/mu/graduate-studies/how-apply">How to Apply for a Postgraduate Programme</a>                        </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+              <li class="tb-megamenu-item level-1 mega dropdown">
+          <a href="https://www.maynoothuniversity.ie/international" class="dropdown-toggle">International<span class="caret"></span></a>          <div class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+            <div class="mega-dropdown-inner">
+              <div class="tb-megamenu-row row-fluid">
+                <div data-showblocktitle="1" data-class="" data-width="7" data-hidewcol="" id="tb-megamenu-column-1" class="tb-megamenu-column span7 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <div data-type="block" data-block="bean--research-menu-header" class="tb-megamenu-block tb-block tb-megamenu-block">
+                      <div class="block-inner">
+                        <section class="block odd cf b1 research-menu-header ">
+                          <div class="block-inner cf">
+                            <h2 class="block-title">International</h2>
+                            <div class="content">
+                                                                                          <div class="field-name-field-bean-e-body">
+                                The MU International Office is the first point of contact for international students applying for full-degree, Erasmus, Study Abroad, and Summer School programmes, and supports MU students who wish to study abroad.                              </div>
+                                                                                          <div class="field-name-field-bean-e-link"><a href="https://www.maynoothuniversity.ie/international">Learn More</a></div>
+                                                          </div>
+                          </div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div  data-class="" data-width="5" data-hidewcol="0" id="tb-megamenu-column-50" class="tb-megamenu-column span5 mega-col-nav">
+                  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                    <ul class="tb-megamenu-subnav mega-nav level-1 items-10">
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/international-student-experience-maynooth">The Maynooth Student Experience</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/erasmus">Erasmus Incoming</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/study-abroad-information">Study Abroad and Exchange Incoming</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/short-term-programmes">Summer and Tailored Programmes</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/prospective-full-degree-students">Prospective Full Degree Students</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/going-abroad-maynooth">Go Abroad with Maynooth</a>                        </li>
+                                              <li class="tb-megamenu-item level-2 mega">
+                          <a href="https://www.maynoothuniversity.ie/international/key-information">Pre-Arrival &amp; Orientation</a>                        </li>
+                                          </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+          </ul>
+  </div>
+</div>
+	</div>  
+  </div>
+
+</div>  </div>
+</div><div class="grid-12" id="region-search">
+  <div class="region-inner cf">
+    <div class="block odd cf b1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <form action="/computer-science" method="post" id="search-block-form" accept-charset="UTF-8" role="form"><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" placeholder="Search" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-v1xqDCyzCRhSAup4loccsanXuzsrMTeikS5fwKrHeyA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</form>	</div>  
+  </div>
+
+</div>  </div>
+</div><a href="#zone-header-wrapper" class="close-button slidetoggle not-desktop">Close</a>  </div>
+</div></header>  
+      <section id="section-content" class="section section-content bg-dcdcdc">
+<div id="zone-titling-wrapper" class="bg-007E8C">
+<div id="zone-titling" class="container-12 clearfix">
+	<div id="region-titling" class="grid-12"><div class="region-inner">
+	<h1><strong>Maynooth University Department of Computer Science</strong></h1>
+		<a id="mobile-subnav-toggle" href="#subnav" class="slidetoggle only-mobile">Toggle</a>
+		</div></div>
+</div>
+</div>
+<div id="zone-breadcrumb-wrapper" class="bg-dcdcdc not-mobile">  
+  <div id="zone-breadcrumb" class="clearfix container-12"> 
+          <div id="breadcrumb" class="grid-12"><ul class="breadcrumb"><li><a href="/">Home</a> / </li><li class="active"><a href="/computer-science" class="active">Department Home</a></li></ul></div>
+        
+    	</div>  
+</div>  
+	
+    
+  <div id="zone-subnav-clone" class="clearfix container-12">
+    <div class="" id="region-subnav-clone">
+  <div class="region-inner cf">
+    
+<nav  class="block odd cf b1 nav only-mobile hidden" id="subnav">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf active-trail active menu-mlid-1874 department-home"><a href="/computer-science" class="active-trail active">Department Home</a></li>
+<li  class="leaf menu-mlid-1598 about-us"><a href="/computer-science/about-us">About Us</a></li>
+<li  class="leaf menu-mlid-2042 people"><a href="/computer-science/our-people">People</a></li>
+<li  class="leaf menu-mlid-1211 courses"><a href="/computer-science/our-courses">Courses</a></li>
+<li  class="leaf menu-mlid-1599 research"><a href="/computer-science/our-research">Research</a></li>
+<li  class="leaf menu-mlid-2844 news"><a href="/computer-science/news">News</a></li>
+<li  class="expanded menu-mlid-2955 events"><a href="/computer-science/events">Events</a><ul class="menu"><li  class="first last leaf menu-mlid-2956 archive archive"><a href="/computer-science/events/archive">Archive</a></li>
+</ul></li>
+<li  class="leaf menu-mlid-1600 graduates"><a href="/computer-science/our-graduates">Graduates</a></li>
+<li  class="last leaf menu-mlid-1601 contact-us"><a href="/computer-science/contact-us">Contact Us</a></li>
+</ul>
+<a href="#subnav" class="close-button slidetoggle">Close</a>	</div>
+  </div>
+ 
+</nav>  </div>
+</div>  </div>
+<div id="zone-page-upper-wrapper" class="bg-dcdcdc">  
+  <div id="zone-page-upper" class="clearfix container-12">
+    <div class="grid-12" id="region-page-upper">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 carousels block-3">
+  <div class="block-inner cf">
+            	<div class="content">
+              
+  
+  
+             <div  id="flexslider-1" class="flex-flexslider flexslider">
+  <ul class="slides"><li>  
+          <img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/assets/images/Computer-Science---Viewing-Device-in-lab---NUI-Maynooth.jpg" width="1200" height="396" alt="Computer Science - Viewing tech in the Computer Lab - Maynooth University" />    
+  <div class="slide-text">        <h2><a href="https://www.maynoothuniversity.ie/computer-science/our-courses">Computer Science </a></h2>
+<p>Computer Lab </p>  </div></li>
+<li>  
+          <img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/assets/images/Computer-Science---Student-with-Technology---NUI-Maynooth.jpg" width="1200" height="396" alt="Computer Science - Student with Technology - Maynooth University" />    
+  <div class="slide-text">        <h2><a href="https://www.maynoothuniversity.ie/computer-science/our-research">Computer Science </a></h2>
+<p>Real Time 3D Mapping </p>  </div></li>
+<li>  
+          <img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/assets/images/Computer-Science---Student-Using-an-App---NUI-Maynooth.jpg" width="1200" height="396" alt="Computer Science - Student Using an App - Maynooth University" />    
+  <div class="slide-text">        <h2><a href="https://www.maynoothuniversity.ie/computer-science/our-people">Computer Science </a></h2>
+<p>Computer Science </p>  </div></li>
+</ul></div>
+      
+  
+  
+  
+  
+  	</div>  
+  </div>
+
+</div>  </div>
+</div>  </div>
+</div><div id="zone-content-wrapper" class="bg-dcdcdc">  
+  <div id="zone-content" class="clearfix container-12">    
+    <aside class="grid-3 aside not-mobile" id="region-sidebar-first">
+  <div class="region-inner cf">
+    
+<nav  class="block odd cf b1 nav">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf active-trail active menu-mlid-1874 department-home"><a href="/computer-science" class="active-trail active">Department Home</a></li>
+<li  class="leaf menu-mlid-1598 about-us"><a href="/computer-science/about-us">About Us</a></li>
+<li  class="leaf menu-mlid-2042 people"><a href="/computer-science/our-people">People</a></li>
+<li  class="leaf menu-mlid-1211 courses"><a href="/computer-science/our-courses">Courses</a></li>
+<li  class="leaf menu-mlid-1599 research"><a href="/computer-science/our-research">Research</a></li>
+<li  class="leaf menu-mlid-2844 news"><a href="/computer-science/news">News</a></li>
+<li  class="expanded menu-mlid-2955 events"><a href="/computer-science/events">Events</a><ul class="menu"><li  class="first last leaf menu-mlid-2956 archive archive"><a href="/computer-science/events/archive">Archive</a></li>
+</ul></li>
+<li  class="leaf menu-mlid-1600 graduates"><a href="/computer-science/our-graduates">Graduates</a></li>
+<li  class="last leaf menu-mlid-1601 contact-us"><a href="/computer-science/contact-us">Contact Us</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav><section class="block even cf b2 useful-links-org-units block">
+  <div class="block-inner cf">
+              <h2 class="block-title">
+          Further Information      </h2>
+        	<div class="content">
+              
+  
+  
+             
+
+<nav class="nav">
+    <ul class="menu">
+          		    <li class="leaf"><a href="/computer-science/timetables">Timetable 2021-2022</a>            </li>          		    <li class="leaf"><a href="/computer-science/student-handbook-2021-22">Student Handbook 2021-22</a>            </li>          		    <li class="leaf"><a href="/computer-science/MSc-Computer-Science-Maynooth">MSc Computer Science </a>            </li>          		    <li class="leaf"><a href="/computer-science/internal">Internal</a>            </li>          		    <li class="leaf"><a href="/computer-science/computer-science-summer-school">Computer Science Summer School</a>            </li>          		    <li class="leaf"><a href="/computer-science/introductory-coding-creatives-using-scalable-vector-graphics-svgs-make-emoji-and-cartoon-characters">Introductory Coding for Creatives: Using Scalable Vector Graphics (SVGs) to make Emoji and Cartoon Characters</a>            </li>          		    <li class="leaf"><a href="/computer-science/springboard/hci-pillar-one">HCI Pillar One HDip Human-Computer Interaction &amp; User Experience</a>            </li>          		    <li class="leaf"><a href="/computer-science/springboard">Springboard+ HDip in Science (Software Development)</a>            </li>          		    <li class="leaf"><a href="/computer-science/pact">PACT (Programming + Algorithms ≈ Computational Thinking)</a>            </li>          		    <li class="leaf"><a href="/computer-science/equipment-facility">Equipment Facilities</a>            </li>          		    <li class="leaf"><a href="/computer-science/current-postgrads">Current Postgrads</a>            </li>          		    <li class="leaf"><a href="/computer-science/megadojo2018">DojoMór</a>            </li>          		    <li class="leaf"><a href="/computer-science/coderdojo">Coderdojo</a>            </li>          		    <li class="leaf"><a href="/computer-science/summer-camps">Summer Camp 2021</a>            </li>            </ul>
+</nav>
+
+      
+  
+  
+  
+  
+  	</div>  
+  </div>
+
+</section><div class="block odd cf b3 organisational-unit-location-maps promo-panel">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="bean-e">
+            <div class="view-header">
+      <h2 class="block-title"><a href="https://www.maynoothuniversity.ie/people?combine=&amp;field_organisational_unit_nid=188">How to find us</a></h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first last m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/assets/images/Eolas%20Building-01.jpg" width="500" height="330" alt="Maynooth University - Eolas Building Map" /></div>  </div>  
+  <div class="views-field views-field-field-organisational-unit-text">        <p class="field-content"><p>The Department of Computer Science is currently located in the <strong>Eolas Building, North Campus</strong>&nbsp;this building is located next to the Iontas&nbsp;Building.</p>
+</p>  </div>  
+  <div class="views-field views-field-field-organisational-unit-mlink">        <p class="field-content more"><a href="https://www.maynoothuniversity.ie/campus-life/campus-map">View us on the campus map</a></p>  </div>  
+  <div class="views-field views-field-field-organisational-unit-clink-1">        <p class="field-content more"><a href="https://www.maynoothuniversity.ie/people?combine=&amp;field_organisational_unit_nid=188">More contact details</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div>  </div>
+</aside><div class="grid-6" id="region-content">
+  <div class="region-inner cf">
+    <a id="main-content"></a>
+    
+		        <!-- If node type = Course don't show title -->
+  	
+	  
+<div class="block odd cf b1 main-content cb">
+  <div class="block-inner cf">
+        <ul class="action-links"></ul>	<div class="content">
+      <article about="/computer-science" typeof="sioc:Item foaf:Document" class="node node-organisational-unit node-published node-not-promoted node-not-sticky author-webadmin odd clearfix" id="node-organisational-unit-188">
+        <span property="dc:title" content="Computer Science" class="rdf-meta element-hidden"></span>  
+  <div class="content clearfix">
+    <div class="field-name-body">
+  
+                <p><strong>Welcome to Computer Science at Maynooth University. </strong>The Department provides a wide range of undergraduate and postgraduate degree courses in Computer Science, Software Engineering, Multimedia and Mobile Systems along with an extensive research programme leading to M.Sc. and Ph.D. degrees in many exciting areas.</p>
+<p>Computers have become a part of everybody’s daily life, and in the Department of Computer Science we teach how computer systems work, with a particular focus on software, and we research into how computer systems will develop into the future. Our courses cover a wide spectrum of topics from software to computer hardware, from internal details of operating systems to computer applications, and from software engineering practice to computational theory. Our approach is to instill a thorough understanding of fundamental principles, while developing analytical abilities and practical skills.</p>
+<p>We provide excellent facilities for practical work, with most of our modules including a mix of lectures and lab work. Many of our students also spend time working in industry as part of their course. We endeavour to provide a supportive and enjoyable atmosphere for learning - we provide a programming helpdesk, extensive assistance during practical work - and we are always available outside of lectures to help our students.</p>
+<p>Please explore our website to find out more about our <a href="/computer-science/our-courses">courses</a>, our <a href="/computer-science/our-research">research</a>, and our <a href="computer-science/our-people">staff</a>.</p>
+<p><strong>Fáilte go dtí an Roinn Ríomheolaíochta in Ollscoil na hÉireann, Maigh Nuad.</strong> Cuireann an Roinn seo raon leathan cúrsaí fochéime agus iarchéime ar fáil sa Ríomheolaíocht, in Innealtóireacht Bhogearraí, sna hIlmheáin agus i gCórais Mhóibíleacha, mar aon le clár leathan taighde as a leanann céimeanna M.Sc agus Ph.D., i mórchuid réimsí spreagúla.</p>
+<p>Tá ríomhairí i gcroílár ár saolta laethúla agus, i Roinn na Ríomheolaíochta, múinimid conas mar a oibríonn córais ríomhaire, ag díriú ach go háirithe ar bhogearraí, agus téimid i mbun taighde ar conas mar a fhorbróidh córais ríomhaire sa todhchaí. Tá roinnt mhaith ábhar éagsúla pléite inár gcúrsaí, lena n-áirítear bogearraí, crua-earraí ríomhaire, mionshonraí inmheánacha de chórais oibriúcháin, feidhmiúcháin ríomhaire, cleachtas innealtóireachta bogearraí agus teoiric ríomhaireachtúil. Is é an cur chuige atá againne ná tuiscint chríochnúil ar na bunphrionsabail a thabhairt agus ardchumas anailíse agus scileanna praiticiúla a fhorbairt chomh maith.</p>
+<p>Cuirimid áiseanna den chéad scoth ar fáil don obair phraiticiúil, óir tá meascán de léachtaí agus obair shaotharlainne i gceist sa chuid is mó denár modúil. Caitheann roinnt mhaith denár mic léinn seal ag obair amuigh san earnáil féin mar chuid den chúrsa atá ar bun acu. Déanaimid ár ndícheall chun atmaisféar tacúil agus taitneamhach a chruthú ar mhaithe le foghlaim – i measc ár seifteanna tá deasc chabhrach ríomhchlárúcháin agus cúnamh cuimsitheach le linn na hoibre praiticiúla – agus bímid i gconaí taobh amuigh de léachtaí chun dul i gcabhair ar ár mic léinn.</p>
+<p>Fiosraigh ár <a href="/computer-science/our-courses">gcúrsaí</a>, ár gcuid <a href="/computer-science/our-research">taighde </a>agus ár <a href="http://computer-science/our-people">bhfoireann</a> ar an suíomh gréasáin seo le do thoil.</p>
+<p>
+&nbsp;</p>
+        </div>
+  </div>
+
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+	</div>  
+  </div>
+ 
+</div><div class="block news-events-container even cf b2 news-events-blocks block-8 news-events">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="news-events">
+            <div class="view-header">
+      <h2><a href="computer-science/news">Our News</a></h2>
+    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image-1 views-field-field-image">        <a href="/computer-science/news/terrain-ai-led-dr-rowan-fealy-and-professor-tim-mccarthy-wins-ai-award-best-application-ai"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_1_2/public/assets/images/AI%20Awards%20-%20Anne%20Sheehan%2C%20General%20Manager%20of%20Microsoft%20Ireland%20pictured%20wtih%20Professor%20Tim%20McCarthy%20o.jpg?itok=2pgk3ksg" width="550" height="275" alt="AI Awards Maynooth University 2021" /></a>  </div>  
+  <h3 class="views-field views-field-title">        <a href="/computer-science/news/terrain-ai-led-dr-rowan-fealy-and-professor-tim-mccarthy-wins-ai-award-best-application-ai">Terrain-AI, led by Dr Rowan Fealy and Professor Tim McCarthy, wins AI Award for Best Application of AI </a>  </h3>  
+  <p class="views-field views-field-field-news-description views-field-field-plain-text">        Terrain-AI, led by Dr Rowan Fealy and Professor Tim McCarthy, wins AI Award for Best Application of AI to Achieve Social Good at the AI Awards ceremony, held on Thursday 25 November. The AI Awards, which are held annually, seek to recognise how AI can be ethically used to help solve some of the biggest business, academic, environmental, and health challenges facing our society.  </p>  
+  <div class="views-field views-field-field-news-published-date">        <p class="news-events views-field views-field-field-date">
+<span class="news-events views-label views-label-field-date">Date: </span>    
+<span class="date-display-start"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-11-30T10:15:00+00:00">Tuesday, 30 November 2021</span></span>
+</p>  </div></div></div><div class="row even last cf m3_2 m4_2"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image-1 views-field-field-image">        <a href="/computer-science/news/postdoctoral-and-phd-research-positions-software-verification"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_1_2/public/assets/images/code-unsplash.jpg?itok=_1TWHsbf" width="550" height="275" alt="" /></a>  </div>  
+  <h3 class="views-field views-field-title">        <a href="/computer-science/news/postdoctoral-and-phd-research-positions-software-verification">Postdoctoral and PhD Research Positions in Software Verification</a>  </h3>  
+  <p class="views-field views-field-field-news-description views-field-field-plain-text">        We are pleased to announce a three-year postdoctoral position and a four-year PhD scholarship on a project which investigates Modular AI Verification and Visualisation (MAIVV).   </p>  
+  <div class="views-field views-field-field-news-published-date">        <p class="news-events views-field views-field-field-date">
+<span class="news-events views-label views-label-field-date">Date: </span>    
+<span class="date-display-start"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-10-27T13:15:00+01:00">Wednesday, 27 October 2021</span></span>
+</p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+      <div class="view-footer">
+      <a href="computer-science/news">More news</a>    </div>
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="block news-events-container odd cf b3 news-events-blocks block-1 news-events">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="news-events">
+            <div class="view-header">
+      <h2><a href="computer-science/events">Our Events</a></h2>
+    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first last cf m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image views-field-field-image">        <a href="/computer-science/events/spring-open-day-2022"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/styles/ratio_1_2/public/assets/images/5795_MU_UG_Nov21_WebCarousel_1120x396_v1.jpg?itok=uFFHp9Em" width="550" height="275" alt="" /></a>  </div>  
+  <h3 class="views-field views-field-title">        <a href="/computer-science/events/spring-open-day-2022">Spring Open Day 2022</a>  </h3>  
+  <p class="views-field views-field-field-event-description views-field-field-plain-text">        Join us on the MU campus on Saturday 30th April 2022 for our Spring Open Day. Register and we will send you updates about our planned events.  </p>  
+  <div class="views-field views-field-field-event-date">        <p class="news-events views-field views-field-field-date">    
+<span class="news-events views-label views-label-field-date">When: </span>    
+<span class="date-display-start"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-04-30T10:00:00+01:00">Saturday, 30 April 2022</span></span>
+</p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+      <div class="view-footer">
+      <a href="computer-science/events">More events</a>    </div>
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="grid-12" id="region-content-bottom">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 organisational-unit-location-maps promo-panel">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="bean-e">
+            <div class="view-header">
+      <h2 class="block-title"><a href="https://www.maynoothuniversity.ie/people?combine=&amp;field_organisational_unit_nid=188">How to find us</a></h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first last m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/assets/images/Eolas%20Building-01.jpg" width="500" height="330" alt="Maynooth University - Eolas Building Map" /></div>  </div>  
+  <div class="views-field views-field-field-organisational-unit-text">        <p class="field-content"><p>The Department of Computer Science is currently located in the <strong>Eolas Building, North Campus</strong>&nbsp;this building is located next to the Iontas&nbsp;Building.</p>
+</p>  </div>  
+  <div class="views-field views-field-field-organisational-unit-mlink">        <p class="field-content more"><a href="https://www.maynoothuniversity.ie/campus-life/campus-map">View us on the campus map</a></p>  </div>  
+  <div class="views-field views-field-field-organisational-unit-clink-1">        <p class="field-content more"><a href="https://www.maynoothuniversity.ie/people?combine=&amp;field_organisational_unit_nid=188">More contact details</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div><section class="block even cf b2 useful-links-org-units block">
+  <div class="block-inner cf">
+              <h2 class="block-title">
+          Further Information      </h2>
+        	<div class="content">
+              
+  
+  
+             
+
+<nav class="nav">
+    <ul class="menu">
+          		    <li class="leaf"><a href="/computer-science/timetables">Timetable 2021-2022</a>            </li>          		    <li class="leaf"><a href="/computer-science/student-handbook-2021-22">Student Handbook 2021-22</a>            </li>          		    <li class="leaf"><a href="/computer-science/MSc-Computer-Science-Maynooth">MSc Computer Science </a>            </li>          		    <li class="leaf"><a href="/computer-science/internal">Internal</a>            </li>          		    <li class="leaf"><a href="/computer-science/computer-science-summer-school">Computer Science Summer School</a>            </li>          		    <li class="leaf"><a href="/computer-science/introductory-coding-creatives-using-scalable-vector-graphics-svgs-make-emoji-and-cartoon-characters">Introductory Coding for Creatives: Using Scalable Vector Graphics (SVGs) to make Emoji and Cartoon Characters</a>            </li>          		    <li class="leaf"><a href="/computer-science/springboard/hci-pillar-one">HCI Pillar One HDip Human-Computer Interaction &amp; User Experience</a>            </li>          		    <li class="leaf"><a href="/computer-science/springboard">Springboard+ HDip in Science (Software Development)</a>            </li>          		    <li class="leaf"><a href="/computer-science/pact">PACT (Programming + Algorithms ≈ Computational Thinking)</a>            </li>          		    <li class="leaf"><a href="/computer-science/equipment-facility">Equipment Facilities</a>            </li>          		    <li class="leaf"><a href="/computer-science/current-postgrads">Current Postgrads</a>            </li>          		    <li class="leaf"><a href="/computer-science/megadojo2018">DojoMór</a>            </li>          		    <li class="leaf"><a href="/computer-science/coderdojo">Coderdojo</a>            </li>          		    <li class="leaf"><a href="/computer-science/summer-camps">Summer Camp 2021</a>            </li>            </ul>
+</nav>
+
+      
+  
+  
+  
+  
+  	</div>  
+  </div>
+
+</section><div class="block odd cf b3 share---back-to-top">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div id="share-back-top" class="cf cb block" ><a id="user-b2t" href="#main-content" class="smoothscroll">Back to top</a></div>	</div>  
+  </div>
+
+</div>  </div>
+</div>    
+  </div>
+  
+</div><aside class="grid-3 aside" id="region-sidebar-second">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 only-desktop organisational-unit-location-maps promo-panel-1">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="bean-e">
+            <div class="view-header">
+      <h2 class="block-title"><a href="https://www.maynoothuniversity.ie/computer-science/our-people">Meet Our People</a></h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first last m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/assets/images/Computer-Science---Joseph-Timoney---NUI-Maynooth.jpg" width="550" height="363" alt="Computer Science - Joseph Timoney - Maynooth University" /></div>  </div>  
+  <div class="views-field views-field-field-organisational-meet-text">        <p class="field-content"><p>Dr Joseph Timoney, Head Of Department</p>
+<p>&nbsp;</p>
+</p>  </div>  
+  <div class="views-field views-field-field-organisational-meet-link">        <p class="field-content more"><a href="https://www.maynoothuniversity.ie/computer-science/our-people">Meet more people</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="block even cf b2 only-desktop organisational-unit-location-maps promo-panel-2">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="bean-e">
+            <div class="view-header">
+      <h2 class="block-title"><a href="https://www.maynoothuniversity.ie/computer-science/our-research">Our Research</a></h2>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first last m3_1 m4_1"><div class="row-inner">  
+  <div class="views-field views-field-field-asset-image-1">        <div class="field-content"><img typeof="foaf:Image" src="https://www.maynoothuniversity.ie/sites/default/files/assets/images/Computer-Science---Student-with-Technology---NUI-Maynooth.jpg" width="1200" height="396" alt="Computer Science - Student with Technology - Maynooth University" /></div>  </div>  
+  <div class="views-field views-field-field-organisational-research-tx">        <p class="field-content"><p>Research in the Department covers a wide variety of areas from facial expression analysis to&nbsp;location based services for environmental monitoring and public information systems.</p>
+</p>  </div>  
+  <div class="views-field views-field-field-organisational-research-li">        <p class="field-content more"><a href="https://www.maynoothuniversity.ie/computer-science/our-research">More about our research</a></p>  </div></div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div><div class="grid-12 aside" id="region-sidebar-second-bottom">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 paired organisational-unit-location-maps block-3">
+  <div class="block-inner cf">
+            	<div class="content">
+      <div class="bean-e">
+            <div class="view-header">
+      <div id="twitter-logo"></div>    </div>
+  
+  
+  
+       <div class="view-content">      <div class="view-rows cf"><div class="row odd first last m3_1 m4_1"><div class="row-inner">  
+          <a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/MU_CompSci">Tweets by MU_CompSci</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  </div></div></div>
+    </div>  
+  
+  
+  
+  
+  </div>
+	</div>  
+  </div>
+
+</div>  </div>
+</div>  </div>
+</aside>  </div>
+</div> 
+</section>
+
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="bg-474747">  
+  <div id="zone-footer" class="clearfix container-12">
+    <div class="grid-12" id="region-footer">
+  <div class="region-inner cf">
+    
+<nav  class="block odd cf b1 nav only-mobile primary">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf has-children menu-mlid-8232 research"><a href="/research">Research</a></li>
+<li  class="leaf has-children menu-mlid-363 study-at-maynooth"><a href="/study-maynooth">Study at Maynooth</a></li>
+<li  class="leaf has-children menu-mlid-364 campus-life"><a href="/campus-life">Campus Life</a></li>
+<li  class="leaf menu-mlid-11719 a-short-history-of-russia-039-s-long-standing-paranoia-about-the-west"><a href="/research/spotlight-research/short-history-russias-long-standing-paranoia-about-west">A short history of Russia&#039;s long standing paranoia about the West</a></li>
+<li  class="leaf menu-mlid-8472 ivi-research"><a href="/ivi-research">IVI Research</a></li>
+<li  class="leaf menu-mlid-9794 latest-news"><a href="/research/maynoothworks/news-events/latest-news">Latest News</a></li>
+<li  class="leaf menu-mlid-8228 love-across-borders"><a href="/research/spotlight-research/love-across-borders">Love Across Borders</a></li>
+<li  class="leaf menu-mlid-9792 people"><a href="/research/maynoothworks/our-people">People</a></li>
+<li  class="leaf menu-mlid-10978 phd-students"><a href="https://www.maynoothuniversity.ie/music/">PhD Students</a></li>
+<li  class="leaf menu-mlid-11239 phd-and-research-programmes"><a href="/study-maynooth/postgraduate-studies/phd-research-programmes">PhD and Research Programmes</a></li>
+<li  class="leaf menu-mlid-11445 science-week-how-covid-lateral-flow-tests-work"><a href="/research/spotlight-research/science-week-how-covid-lateral-flow-tests-work">Science Week: How Covid lateral flow tests work</a></li>
+<li  class="leaf menu-mlid-8499 small-firm-digitization-survey-ireland-and-uk"><a href="/small-firm-digitization-survey-ireland-and-uk">Small Firm Digitization Survey (Ireland and UK)</a></li>
+<li  class="leaf menu-mlid-11735 taught-programmes"><a href="/study-maynooth/postgraduate-studies/micro-credentials">Taught Programmes</a></li>
+<li  class="leaf menu-mlid-11296 teaching_and_covid-19"><a href="https://www.maynoothuniversity.ie/psychology/" title="Teaching and Covid-19">Teaching_and_Covid-19</a></li>
+<li  class="leaf menu-mlid-9793 upcoming-events"><a href="/research/maynoothworks/news-events/upcoming-events">Upcoming Events</a></li>
+<li  class="leaf menu-mlid-8588 chronologicon-hibernicum"><a href="https://www.maynoothuniversity.ie/chronologiconhibernicum">Chronologicon Hibernicum</a></li>
+<li  class="last leaf menu-mlid-8462 medren-2018"><a href="https://www.maynoothuniversity.ie/music/events/medieval-and-renaissance-music-conference-medren-2018">MedRen 2018</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav><div class="block even cf b2 disclaimer disclaimer">
+  <div class="block-inner cf">
+            	<div class="content">
+      <p id="disclaimer">Ollscoil Mhá Nuad<br />Maigh Nuad<br />Co. Chill Dara<br />Éire</p>
+<p id="disclaimer">Maynooth University<br />Maynooth,<br />Co. Kildare,<br />Ireland.</p>	</div>  
+  </div>
+
+</div>
+<nav  class="block odd cf b3 nav only-mobile utility">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf has-children menu-mlid-439 about-us"><a href="/about-us">About Us</a></li>
+<li  class="leaf has-children menu-mlid-1045 departments"><a href="/departments">Departments</a></li>
+<li  class="leaf menu-mlid-5959 a-z-index"><a href="/az-index">A-Z Index</a></li>
+<li  class="leaf menu-mlid-1697 people-finder"><a href="/people">People Finder</a></li>
+<li  class="leaf has-children menu-mlid-442 news-events"><a href="/news-events">News &amp; Events</a></li>
+<li  class="leaf has-children menu-mlid-443 location"><a href="/location" title="Location">Location</a></li>
+<li  class="leaf has-children menu-mlid-444 contact"><a href="/contact">Contact</a></li>
+<li  class="leaf has-children menu-mlid-3802 for-staff"><a href="/staff">For Staff</a></li>
+<li  class="leaf menu-mlid-447 for-alumni"><a href="/daro">For Alumni</a></li>
+<li  class="leaf has-children menu-mlid-3803 for-current-students"><a href="/current-students">For Current Students</a></li>
+<li  class="last leaf menu-mlid-8160 maynooth-at-20"><a href="/maynooth-university-at-20">Maynooth at 20</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav>
+<nav  class="block even cf b4 nav footer">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf menu-mlid-7096 library"><a href="/library">Library</a></li>
+<li  class="leaf menu-mlid-548 vacancies"><a href="https://www.maynoothuniversity.ie/human-resources/vacancies" target="_blank">Vacancies</a></li>
+<li  class="leaf has-children menu-mlid-549 gaeilge-san-ollscoil"><a href="/oifig-na-gaeilge">Gaeilge san Ollscoil</a></li>
+<li  class="leaf menu-mlid-2498 sitemap"><a href="/sitemap">Sitemap</a></li>
+<li  class="leaf has-children menu-mlid-3603 university-policies"><a href="/university-policies">University Policies</a></li>
+<li  class="leaf menu-mlid-553 accessibility"><a href="/accessiblity">Accessibility</a></li>
+<li  class="last leaf menu-mlid-11166 cookie-declaration"><a href="/cookie-declaration" title="Cookie Declaration" accesskey="c">Cookie Declaration</a></li>
+</ul>
+	</div>
+  </div>
+ 
+</nav>
+<nav  class="block odd cf b5 footer">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf for-current-students"><a href="/current-students">For Current Students</a></li>
+<li  class="leaf for-staff"><a href="/staff">For Staff</a></li>
+<li  class="leaf for-alumni"><a href="http://www.nuim.ie/alumni-office">For Alumni</a></li>
+<li  class="leaf for-visitors"><a href="https://www.maynoothuniversity.ie/campus-services/visitors">For Visitors</a></li>
+<li  class="last leaf support-maynooth"><a href="/daro/support">Support Maynooth</a></li>
+</ul>	</div>
+  </div>
+ 
+</nav>
+<nav  class="block even cf b6 social">
+  <div class="block-inner cf">
+            	<div class="content">
+      <ul class="menu"><li  class="first leaf facebook"><a href="https://www.facebook.com/maynoothuniversity " title="Like us on Facebook" target="_blank">Facebook</a></li>
+<li  class="leaf twitter"><a href="https://twitter.com/MaynoothUni" title="Follow us on Twitter" target="_blank">Twitter</a></li>
+<li  class="leaf linkedin"><a href="https://www.linkedin.com/edu/school?id=19933&amp;trk=ppro_sprof" title="Connect with us on LinkedIn" target="_blank">LinkedIn</a></li>
+<li  class="last leaf youtube"><a href="http://www.youtube.com/user/GoMaynooth" title="View our video channel" target="_blank">YouTube</a></li>
+</ul>	</div>
+  </div>
+ 
+</nav>  </div>
+</div>  </div>
+</div><div id="zone-footer-bottom-wrapper">  
+  <div id="zone-footer-bottom" class="clearfix container-12">
+    <div class="grid-6" id="region-footer-left">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 footer:-disclaimer-maynooth-logos">
+  <div class="block-inner cf">
+            	<div class="content">
+      <p id="disclaimer" class="logo-registered">Maynooth University & Maynooth University logo are registered trademarks of the National University of Ireland, Maynooth.</p>	</div>  
+  </div>
+
+</div>  </div>
+</div><div class="grid-6" id="region-footer-right">
+  <div class="region-inner cf">
+    <div class="block odd cf b1 maynooth-education-forum-logo">
+  <div class="block-inner cf">
+            	<div class="content">
+      <p class="top-50"><a href="/about-us"><img src="/sites/default/files/assets/images/Top_90.jpeg" alt="Top 90" /></a></p>
+<p><a href="/knownobounds"><img src="/sites/all/themes/nuim_themes/nuim/img/M10520_Maynooth_University_Know_No_Bounds_Logo_English-RGB.jpeg" alt="Maynooth Know no bounds" /></a></p>	</div>  
+  </div>
+
+</div>  </div>
+</div>  </div>
+</div></footer>  <div id="credit-b2t" class="container-12"><span id="bottom-b2t"><a href="#section-header" class="smoothscroll">Back to top</a></span></div>
+	<script type="text/javascript" src="/sites/default/files/advagg_js/js__9VOFA0ojDRe-jzLYqMfhS65SJRxkYxfImCkNhDzFTGY__XBO0U0PEN_Q0_cHTF0ykpWhIu6p9ZfoEh8-piGDBF94__EpC24S0OEwR4Z_l_KUcAz7AIdGHlSuzf_peI3xhZeFs.js"></script>
+</body>
+</html>

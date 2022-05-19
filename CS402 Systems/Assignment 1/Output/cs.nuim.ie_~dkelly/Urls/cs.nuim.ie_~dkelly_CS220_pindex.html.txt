@@ -1,0 +1,29 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Dermot Kelly">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.01 [en] (Win95; I) [Netscape]">
+</HEAD>
+<BODY>
+
+<CENTER><B><FONT SIZE=+2>CS220&nbsp;&nbsp;&nbsp; Computer Architecture
+Practicals<BR><a href="http://www.cs.may.ie/~dkelly/">Dermot Kelly</a></FONT></B></CENTER>
+
+<CENTER><B><FONT SIZE=+2></FONT></B></CENTER>
+
+<p><B>Section A&nbsp;&nbsp;&nbsp; Logic Design</B>
+&nbsp;
+<ul>
+<li><a href="general.html">General Procedures</a>
+<li><a href="schematics.html">Chip Schematics</a>
+<p><li><a href="CAP1.html">Practical 1</a>
+<li><a href="CAP2.html">Practical 2</a>
+<li><a href="CAP3.html">Practical 3</a>
+<li><a href="CAP4.html">Practical 4</a>
+<li><a href="CAP5.html">Practical 5</a>
+</ul>
+<P><b>Section B&nbsp;&nbsp;&nbsp; Assembly Language Programming</B>
+
+&nbsp;
+</BODY>
+</HTML>

@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Dermot Kelly">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.01 [en] (Win95; I) [Netscape]">
+   <TITLE>WINDOWS\DESKTOP\CA1</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER>
+<H2>
+CS220 Computer Architecture<BR>
+<A HREF="http://www.cs.may.ie/~dkelly">Dermot Kelly</A></H2></CENTER>
+&nbsp;
+
+<P>The course is divided into two sections:
+
+<P><B>Section A</B> focuses on <B>Logic Design</B> covering the following
+topics:-
+
+<P><A HREF="http://www.cs.may.ie/~dkelly/CS220/CA1.html">Combinational
+and Sequential Logic</A>;
+<BR><I>Types of Flip-Flop</I>: <A HREF="http://www.cs.may.ie/~dkelly/CS220/CA3.html#SR">S-R</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS220/CA4.html#JK">J-K</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS220/CA7.html#D">D-Latch</A>;
+<A HREF="http://www.cs.may.ie/~dkelly/CS220/CA5.html#pulse">Pulse Shaping</A>;
+<A HREF="http://www.cs.may.ie/~dkelly/CS220/CA8.html">State and Excitation
+Tables</A>;
+<BR><A HREF="http://www.cs.may.ie/~dkelly/CS220/CA10.html">Synchronous
+and Asynchronous Operation</A>;
+<BR><I>Applications of Flip-Flops</I>: <A HREF="http://www.cs.may.ie/~dkelly/CS220/CA9.html">Data
+Transfer</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS220/CA9.html#shift">Bit
+Shifting</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS220/CA10.html">Counters</A>,
+<A HREF="http://www.cs.may.ie/~dkelly/CS220/CA12.html">Registers</A>;
+<BR><A HREF="http://www.cs.may.ie/~dkelly/CS220/CA13.html#synthesis">Design
+Procedure for Synchronous Sequential Circuits</A>;
+<BR><I>Design Examples</I>: <A HREF="http://www.cs.may.ie/~dkelly/CS220/CA17.html#mod4">Mod-4
+Counter</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS220/CA19.html">Serial
+Input Parser</A>, <A HREF="http://www.cs.may.ie/~dkelly/CS220/CA21.html">Mod-5
+Counter</A>, <A HREF="CA23.html">3-bit Right Shift Register</A>, <A HREF="CA24.html">Larger
+Circuits</A>;
+<BR><A HREF="CA25.html">Number Systems</A>, <A HREF="CA25.html#binary">Binary
+Arithmetic</A>, <A HREF="CA27.html">Representing Negative Numbers</A>,
+<A HREF="CA28.html">Hexadecimal System</A>;
+<BR><A HREF="CA29.html">Arithmetic and Logic Unit</A>, <A HREF="CA29.html#adder">Half-Adder</A>,
+<A HREF="CA30.html">Full Adder</A>, <A HREF="CA30.html#propagation">Propagation
+Time</A>, <A HREF="CA30.html#ripple">Ripple Carry Adder</A>,
+<BR><A HREF="CA31.html">Two's Complement Adder/Subtractor Unit</A>, <A HREF="CA32.html">4-bit
+Multiplication Unit</A>, <A HREF="CA34.html">5-bit Signed Division Unit</A>;
+<A HREF="CA35.html">Logic Functions</A>;
+<BR><a href="CA37.html">Levels of Integration</a>,
+<a href="CA38.html"> Multiplexers</a>, <a href="CA40.html">Demultiplexers</a>,
+<a href="CA41.html"> Decoders</a>;
+
+<P><B>Section B</B> focuses on <B>Assembly Language Programming</B> covering
+the following topics:-
+
+<P>(Under Construction)
+
+<P><B>References</B>
+<BR>The following books are recommended as references for use with the
+course:-
+<UL>
+<LI>
+Computer Architecture and Logic Design; T.C. Bartee; McGraw-Hill.</LI>
+
+<LI>
+Computer Systems Design and Architecture (Appendix A and C); V.P. Heuring,
+H.F. Jordan; Addison-Wesley.</LI>
+
+<LI>
+Common Logic; J. Bosak; Prentice-Hall.</LI>
+
+<LI>
+Assembly Language and Computer Organisation; K.A. Lemone; Harper-Collins.</LI>
+
+<LI>
+PC Architecture and Assembly Language; B. Kauler; Sigma Press.</LI>
+
+<LI>
+Microprocessors - A Programmer's View; R. Dewar &amp; M. Smosna; McGraw-Hill.</LI>
+</UL>
+
+<CENTER>[<A HREF="http://www.cs.may.ie/~dkelly/CS220/CA1.html">Begin Course</A>]</CENTER>
+
+</BODY>
+</HTML>

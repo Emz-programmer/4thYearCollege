@@ -1,0 +1,75 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Generator" CONTENT="Microsoft Word 97">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.02 [en] (Win95; I) [Netscape]">
+   <TITLE>CS240 Operating Systems</TITLE>
+</HEAD>
+<BODY LINK="#0000FF" VLINK="#800080">
+
+<CENTER><B><FONT SIZE=+1>CS240 Operating Systems</FONT></B></CENTER>
+
+<CENTER><B><FONT SIZE=+1><A HREF="http://www.cs.may.ie/~dkelly">Dermot
+Kelly</A></FONT></B></CENTER>
+
+<CENTER><FONT SIZE=-1>&nbsp;</FONT></CENTER>
+
+<CENTER><B>Course Overview</B></CENTER>
+
+
+<P>An operating system is very large and complex software system which
+manages all of the hardware of a computer and makes it easy to use. It
+is an environment where numerous tasks must be handled at the same time
+and the coordination of these tasks must provide for the most efficient
+and best use of available resources.
+
+<P>Among some of the tasks an operating must perform are:-
+<UL>(i) Allocation and Management of Resources among competing user processes.
+<BR>(ii) Maximising Resource Utilisation with the goal of improving overall
+system throughput.
+<BR>(iii) Providing a user interface between the user and the hardware.
+<BR>(iv) Coordinating the many concurrent activities ensuring correct synchronisation
+and communication is achieved.
+<BR>(v) Acting as a Resource Guardian to protect various resources of the
+computer system from malicious or accidental misuse.
+<BR>(vi) Accounting for periods of resource usage by user processes, enforcing
+quotas or restrictions as appropriate.
+<DIR>
+<DIR>
+<DIR>&nbsp;</DIR>
+</DIR>
+</DIR>
+</UL>
+In this course, the operating system software is divided and analysed under
+the following topics:-
+<UL><A HREF="OS1.html">Operating System Terminology and Introduction</A>
+
+<P><A HREF="OS2.html">Scheduling</A>
+
+<P><A HREF="OS7.html">Memory Management</A>
+
+<P><A HREF="OS8.html">File Systems</A>
+
+<P><A HREF="OS4.html">Concurrency</A> , <A HREF="OS5.html">Software Synchronisation
+Solutions</A>, <A HREF="OS5a.html">Semaphores</A>, <A HREF="OS6.html">Classical
+Coordination Problems</A>, <A HREF="OS6a.html">Deadlocks</A>
+
+<P><A HREF="OS9.html">Interprocess Communication</A>
+
+<P><A HREF="OS10.html">Protection</A>
+
+<P><A HREF="OS11.html">Security</A>
+<BR>&nbsp;</UL>
+<B>References</B>
+<BR>The Following text books may provide useful reference material for
+the course.
+<UL><B><I>Operating Systems Concepts</I></B> (Fifth Edition)
+<BR>Silberschatz and Galvin, 1998 (Addison-Wesley).
+
+<P><B><I>Operating Systems - Design and Implementation (Second Edition)</I></B>
+<BR>Tanenbaum and Woodhull, 1997 (Prentice-Hall).
+<CENTER>[<A HREF="OS1.html">Begin Course</A>]</CENTER>
+</UL>
+&nbsp;
+</BODY>
+</HTML>

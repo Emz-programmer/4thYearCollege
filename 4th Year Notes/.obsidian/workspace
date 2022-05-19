@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS427 Robotics.md",
+            "file": "Sensors.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS427 Robotics.md",
+                "file": "Sensors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,12 @@
   },
   "active": "bd5b70fd6473234b",
   "lastOpenFiles": [
-    "CS427 Robotics.md"
+    "Sensors.md",
+    "Handover Doc.md",
+    "CS427 Robotics.md",
+    "Remote Procedure Call.md",
+    "Micro Services.md",
+    "Web Service Design.md",
+    "CS402 Revision.md"
   ]
 }
